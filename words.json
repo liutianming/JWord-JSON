@@ -1,0 +1,8618 @@
+[
+  {
+    "lesson": 1,
+    "kana": "ちゅうごくじん",
+    "word": "中国人",
+    "part_of_speech": "名",
+    "chinese": "中国人",
+    "tone": 5
+  },
+  {
+    "lesson": 1,
+    "kana": "にほんじん",
+    "word": "日本人",
+    "part_of_speech": "名",
+    "chinese": "日本人",
+    "tone": 4
+  },
+  {
+    "lesson": 1,
+    "kana": "かんこくじん",
+    "word": "韓国人",
+    "part_of_speech": "名",
+    "chinese": "韩国人",
+    "tone": 4
+  },
+  {
+    "lesson": 1,
+    "kana": "アメリカじん",
+    "word": "～人",
+    "part_of_speech": "名",
+    "chinese": "美国人",
+    "tone": 4
+  },
+  {
+    "lesson": 1,
+    "kana": "フランスじん",
+    "word": "～人",
+    "part_of_speech": "名",
+    "chinese": "法国人",
+    "tone": 4
+  },
+  {
+    "lesson": 1,
+    "kana": "がくせい",
+    "word": "学生",
+    "part_of_speech": "名",
+    "chinese": "（大）学生",
+    "tone": 4
+  },
+  {
+    "lesson": 1,
+    "kana": "せんせい",
+    "word": "先生",
+    "part_of_speech": "名",
+    "chinese": "老师",
+    "tone": 3
+  },
+  {
+    "lesson": 1,
+    "kana": "りゅうがくせい",
+    "word": "留学生",
+    "part_of_speech": "名",
+    "chinese": "留学生",
+    "tone": 4
+  },
+  {
+    "lesson": 1,
+    "kana": "きょうじゅ",
+    "word": "教授",
+    "part_of_speech": "名",
+    "chinese": "教授",
+    "tone": 4
+  },
+  {
+    "lesson": 1,
+    "kana": "しゃいん",
+    "word": "社員",
+    "part_of_speech": "名",
+    "chinese": "职员",
+    "tone": 2
+  },
+  {
+    "lesson": 1,
+    "kana": "かいしゃいん",
+    "word": "会社員",
+    "part_of_speech": "名",
+    "chinese": "公司职员",
+    "tone": 4
+  },
+  {
+    "lesson": 1,
+    "kana": "てんいん",
+    "word": "店員",
+    "part_of_speech": "名",
+    "chinese": "店员",
+    "tone": 4
+  },
+  {
+    "lesson": 1,
+    "kana": "けんしゅうせい",
+    "word": "研修生",
+    "part_of_speech": "名",
+    "chinese": "进修生",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "きぎょう",
+    "word": "企業",
+    "part_of_speech": "名",
+    "chinese": "企业",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "だいがく",
+    "word": "大学",
+    "part_of_speech": "名",
+    "chinese": "大学",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "ちち",
+    "word": "父",
+    "part_of_speech": "名",
+    "chinese": "（我）父亲",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "かちょう",
+    "word": "課長",
+    "part_of_speech": "名",
+    "chinese": "科长",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "しゃちょう",
+    "word": "社長",
+    "part_of_speech": "名",
+    "chinese": "总经理，社长",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "でむかえ",
+    "word": "出迎え",
+    "part_of_speech": "名",
+    "chinese": "迎接",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "あのひと",
+    "word": "あの人",
+    "part_of_speech": "名",
+    "chinese": "那个人",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "わたし",
+    "word": "",
+    "part_of_speech": "代",
+    "chinese": "我",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "あなた",
+    "word": "",
+    "part_of_speech": "代",
+    "chinese": "你",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "どうも",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "非常，很",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "はい",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "哎，是（应答）；是的",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "いいえ",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "不，不是",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "あっ",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "哎，哎呀",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "り",
+    "word": "李",
+    "part_of_speech": "专",
+    "chinese": "李",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "おう",
+    "word": "王",
+    "part_of_speech": "专",
+    "chinese": "王",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "ちょう",
+    "word": "張",
+    "part_of_speech": "专",
+    "chinese": "张",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "もり",
+    "word": "森",
+    "part_of_speech": "专",
+    "chinese": "森",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "はやし",
+    "word": "林",
+    "part_of_speech": "专",
+    "chinese": "林",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "おの",
+    "word": "小野",
+    "part_of_speech": "专",
+    "chinese": "小野",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "よしだ",
+    "word": "吉田",
+    "part_of_speech": "专",
+    "chinese": "吉田",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "たなか",
+    "word": "田中",
+    "part_of_speech": "专",
+    "chinese": "田中",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "なかむら",
+    "word": "中村",
+    "part_of_speech": "专",
+    "chinese": "中村",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "たろう",
+    "word": "太郎",
+    "part_of_speech": "专",
+    "chinese": "太郎",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "キム",
+    "word": "金",
+    "part_of_speech": "专",
+    "chinese": "金",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "デュポン",
+    "word": "",
+    "part_of_speech": "专",
+    "chinese": "迪蓬",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "スミス",
+    "word": "",
+    "part_of_speech": "专",
+    "chinese": "史密斯",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "ジョンソン",
+    "word": "",
+    "part_of_speech": "专",
+    "chinese": "约翰逊",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "ちゅうごく",
+    "word": "中国",
+    "part_of_speech": "专",
+    "chinese": "中国",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "とうきょうだいがく",
+    "word": "東京大学",
+    "part_of_speech": "专",
+    "chinese": "东京大学",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "ペキンだいがく",
+    "word": "北京大学",
+    "part_of_speech": "专",
+    "chinese": "北京大学",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "ジェーシーきかく",
+    "word": "ＪＣ企画",
+    "part_of_speech": "专",
+    "chinese": "JC策划公司",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "ペキンりょこうしゃ",
+    "word": "北京旅行社",
+    "part_of_speech": "专",
+    "chinese": "北京旅行社",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "にっちゅうしょうじ",
+    "word": "日中商事",
+    "part_of_speech": "专",
+    "chinese": "日中商社",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "こんにちは",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "你好",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "すみません",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "对不起，请问",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "どうぞ",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "请",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "よろしくおねがいします",
+    "word": "～お願いします",
+    "part_of_speech": "",
+    "chinese": "请多关照",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "はじめまして",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "初次见面",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "こちらこそ",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "我才要（请您～）",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "そうてす",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "是（这样）",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "ちがいます",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "不是",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "わかりません",
+    "word": "分かりません",
+    "part_of_speech": "",
+    "chinese": "不知道",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "どうもすみません",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "实在对不起",
+    "tone": 0
+  },
+  {
+    "lesson": 1,
+    "kana": "～さん∕～ちゃん∕～君くん",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "ほん",
+    "word": "本",
+    "part_of_speech": "名",
+    "chinese": "书",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "かばん",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "包，公文包",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "ノート",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "笔记本，本子",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "えんぴつ",
+    "word": "鉛筆",
+    "part_of_speech": "名",
+    "chinese": "铅笔",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "かさ",
+    "word": "傘",
+    "part_of_speech": "名",
+    "chinese": "伞",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "くつ",
+    "word": "靴",
+    "part_of_speech": "名",
+    "chinese": "鞋",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "しんぶん",
+    "word": "新聞",
+    "part_of_speech": "名",
+    "chinese": "报纸",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "ざっし",
+    "word": "雑誌",
+    "part_of_speech": "名",
+    "chinese": "杂志",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "じしょ",
+    "word": "辞書",
+    "part_of_speech": "名",
+    "chinese": "词典",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "カメラ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "照相机",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "テレビ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "电视机",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "パソコン",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "个人电脑",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "ラジオ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "收音机",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "でんわ",
+    "word": "電話",
+    "part_of_speech": "名",
+    "chinese": "电话",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "つくえ",
+    "word": "机",
+    "part_of_speech": "名",
+    "chinese": "桌子，书桌",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "いす",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "椅子",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "かぎ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "钥匙，锁",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "とけい",
+    "word": "時計",
+    "part_of_speech": "名",
+    "chinese": "钟，表",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "てちょう",
+    "word": "手帳",
+    "part_of_speech": "名",
+    "chinese": "记事本",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "しゃしん",
+    "word": "写真",
+    "part_of_speech": "名",
+    "chinese": "照片",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "くるま",
+    "word": "車",
+    "part_of_speech": "名",
+    "chinese": "车",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "じてんしゃ",
+    "word": "自転車",
+    "part_of_speech": "名",
+    "chinese": "自行车",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "おみやげ",
+    "word": "お土産",
+    "part_of_speech": "名",
+    "chinese": "礼物",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "めいさんひん",
+    "word": "名産品",
+    "part_of_speech": "名",
+    "chinese": "特产，名产",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "シルク",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "丝绸",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "ハンカチ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "手绢",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "かいしゃ",
+    "word": "会社",
+    "part_of_speech": "名",
+    "chinese": "公司",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "かた",
+    "word": "方",
+    "part_of_speech": "名",
+    "chinese": "(敬称)位，人",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "ひと",
+    "word": "人",
+    "part_of_speech": "名",
+    "chinese": "人",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "かぞく",
+    "word": "家族",
+    "part_of_speech": "名",
+    "chinese": "家人，家属",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "はは",
+    "word": "母",
+    "part_of_speech": "名",
+    "chinese": "(我)母亲",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "おかあさん",
+    "word": "お母さん",
+    "part_of_speech": "名",
+    "chinese": "母亲",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "にほんご",
+    "word": "日本語",
+    "part_of_speech": "名",
+    "chinese": "日语",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "ちゅうごくご",
+    "word": "中国語",
+    "part_of_speech": "名",
+    "chinese": "汉语，中文",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "これ",
+    "word": "",
+    "part_of_speech": "代",
+    "chinese": "这，这个",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "それ",
+    "word": "",
+    "part_of_speech": "代",
+    "chinese": "那，那个",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "あれ",
+    "word": "",
+    "part_of_speech": "代",
+    "chinese": "那，那个",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "どれ",
+    "word": "",
+    "part_of_speech": "疑",
+    "chinese": "哪个",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "なん",
+    "word": "何",
+    "part_of_speech": "疑",
+    "chinese": "什么",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "だれ",
+    "word": "",
+    "part_of_speech": "疑",
+    "chinese": "谁",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "どなた",
+    "word": "",
+    "part_of_speech": "疑",
+    "chinese": "哪位",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "この",
+    "word": "",
+    "part_of_speech": "连体",
+    "chinese": "这，这个",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "その",
+    "word": "",
+    "part_of_speech": "连体",
+    "chinese": "那，那个",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "あの",
+    "word": "",
+    "part_of_speech": "连体",
+    "chinese": "那，那个",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "どの",
+    "word": "",
+    "part_of_speech": "连体",
+    "chinese": "哪个",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "えっ",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "啊",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "わあ",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "哇",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "ええ",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "(应答)嗯，是",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "ながしま",
+    "word": "長島",
+    "part_of_speech": "专",
+    "chinese": "长岛",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "にほん",
+    "word": "日本",
+    "part_of_speech": "专",
+    "chinese": "日本",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "スワトウ",
+    "word": "",
+    "part_of_speech": "专",
+    "chinese": "汕头",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "ロンドン",
+    "word": "",
+    "part_of_speech": "专",
+    "chinese": "伦敦",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "ありがとうございます",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "谢谢",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "おいくつ",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "多大",
+    "tone": 0
+  },
+  {
+    "lesson": 2,
+    "kana": "何なん～∕～歳さい",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "デパート",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "百货商店",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "しょくどう",
+    "word": "食堂",
+    "part_of_speech": "名",
+    "chinese": "食堂",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "ゆうびんきょく",
+    "word": "郵便局",
+    "part_of_speech": "名",
+    "chinese": "邮局",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "ぎんこう",
+    "word": "銀行",
+    "part_of_speech": "名",
+    "chinese": "银行",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "としょかん",
+    "word": "図書館",
+    "part_of_speech": "名",
+    "chinese": "图书馆",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "マンション",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "(高级)公寓",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "ホテル",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "宾馆",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "コンビニ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "便利店",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "きっさてん",
+    "word": "喫茶店",
+    "part_of_speech": "名",
+    "chinese": "咖啡馆",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "びょういん",
+    "word": "病院",
+    "part_of_speech": "名",
+    "chinese": "医院",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "ほんや",
+    "word": "本屋",
+    "part_of_speech": "名",
+    "chinese": "书店",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "レストラン",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "餐馆，西餐馆",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "ビル",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "大楼，大厦",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "たてもの",
+    "word": "建物",
+    "part_of_speech": "名",
+    "chinese": "大楼，建筑物",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "うりば",
+    "word": "売り場",
+    "part_of_speech": "名",
+    "chinese": "柜台，出售处",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "トイレ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "厕所，盥洗室",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "いりぐち",
+    "word": "入り口",
+    "part_of_speech": "名",
+    "chinese": "入口",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "じむしょ",
+    "word": "事務所",
+    "part_of_speech": "名",
+    "chinese": "事务所，办事处",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "うけつけ",
+    "word": "受付",
+    "part_of_speech": "名",
+    "chinese": "接待处",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "バーゲンかいじょう",
+    "word": "～会場",
+    "part_of_speech": "名",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "エスカレーター",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "自动扶梯",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "ふく",
+    "word": "服",
+    "part_of_speech": "名",
+    "chinese": "衣服",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "コート",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "风衣，大衣",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "デジカメ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "数码相机",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "くに",
+    "word": "国",
+    "part_of_speech": "名",
+    "chinese": "国，国家",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "ちず",
+    "word": "地図",
+    "part_of_speech": "名",
+    "chinese": "地图",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "となり",
+    "word": "隣",
+    "part_of_speech": "名",
+    "chinese": "旁边",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "しゅうへん",
+    "word": "周辺",
+    "part_of_speech": "名",
+    "chinese": "附近，周边",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "きょう",
+    "word": "今日",
+    "part_of_speech": "名",
+    "chinese": "今天",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "すいようび",
+    "word": "水曜日",
+    "part_of_speech": "名",
+    "chinese": "星期三",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "もくようび",
+    "word": "木曜日",
+    "part_of_speech": "名",
+    "chinese": "星期四",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "ここ",
+    "word": "",
+    "part_of_speech": "代",
+    "chinese": "这里，这儿",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "そこ",
+    "word": "",
+    "part_of_speech": "代",
+    "chinese": "那里，那儿",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "あそこ",
+    "word": "",
+    "part_of_speech": "代",
+    "chinese": "那里，那儿",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "こちら",
+    "word": "",
+    "part_of_speech": "代",
+    "chinese": "这儿，这边",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "そちら",
+    "word": "",
+    "part_of_speech": "代",
+    "chinese": "那儿，那边",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "あちら",
+    "word": "",
+    "part_of_speech": "代",
+    "chinese": "那儿，那边",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "どこ",
+    "word": "",
+    "part_of_speech": "疑",
+    "chinese": "哪里，哪儿",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "どちら",
+    "word": "",
+    "part_of_speech": "疑",
+    "chinese": "哪儿，哪边",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "あのう",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "请问，对不起",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "シャンハイ",
+    "word": "上海",
+    "part_of_speech": "专",
+    "chinese": "上海",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "とうきょう",
+    "word": "東京",
+    "part_of_speech": "专",
+    "chinese": "东京",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "いくら",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "多少钱",
+    "tone": 0
+  },
+  {
+    "lesson": 3,
+    "kana": "お～∕～かい∕～えん∕～ようび",
+    "word": "お～∕～階∕～円∕～曜日",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "へや",
+    "word": "部屋",
+    "part_of_speech": "名",
+    "chinese": "房间，屋子",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "にわ",
+    "word": "庭",
+    "part_of_speech": "名",
+    "chinese": "院子",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "いえ",
+    "word": "家",
+    "part_of_speech": "名",
+    "chinese": "家",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "いま",
+    "word": "居間",
+    "part_of_speech": "名",
+    "chinese": "起居室",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "れいぞうこ",
+    "word": "冷蔵庫",
+    "part_of_speech": "名",
+    "chinese": "冰箱",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "かべ",
+    "word": "壁",
+    "part_of_speech": "名",
+    "chinese": "墙壁",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "スイッチ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "开关",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "ほんだな",
+    "word": "本棚",
+    "part_of_speech": "名",
+    "chinese": "书架",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "ベッド",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "床",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "ねこ",
+    "word": "猫",
+    "part_of_speech": "名",
+    "chinese": "猫",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "いぬ",
+    "word": "犬",
+    "part_of_speech": "名",
+    "chinese": "狗",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "はこ",
+    "word": "箱",
+    "part_of_speech": "名",
+    "chinese": "盒子，箱子",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "めがね",
+    "word": "眼鏡",
+    "part_of_speech": "名",
+    "chinese": "眼镜",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "ビデオ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "录像机",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "サッカーボール",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "足球",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "ビール",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "啤酒",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "ウイスキー",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "威士忌",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "こども",
+    "word": "子供",
+    "part_of_speech": "名",
+    "chinese": "孩子，小孩",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "きょうだい",
+    "word": "兄弟",
+    "part_of_speech": "名",
+    "chinese": "兄弟姐妹",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "りょうしん",
+    "word": "両親",
+    "part_of_speech": "名",
+    "chinese": "父母，双亲",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "いもうと",
+    "word": "妹",
+    "part_of_speech": "名",
+    "chinese": "妹妹",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "おとこ",
+    "word": "男",
+    "part_of_speech": "名",
+    "chinese": "男",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "おんな",
+    "word": "女",
+    "part_of_speech": "名",
+    "chinese": "女",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "せいと",
+    "word": "生徒",
+    "part_of_speech": "名",
+    "chinese": "学生",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "うえ",
+    "word": "上",
+    "part_of_speech": "名",
+    "chinese": "上面",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "そと",
+    "word": "外",
+    "part_of_speech": "名",
+    "chinese": "外面",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "なか",
+    "word": "中",
+    "part_of_speech": "名",
+    "chinese": "里面，内部，中间",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "した",
+    "word": "下",
+    "part_of_speech": "名",
+    "chinese": "下面",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "まえ",
+    "word": "前",
+    "part_of_speech": "名",
+    "chinese": "前，前面",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "うしろ",
+    "word": "後ろ",
+    "part_of_speech": "名",
+    "chinese": "后，后面",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "ちかく",
+    "word": "近く",
+    "part_of_speech": "名",
+    "chinese": "附近，近旁",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "ばしょ",
+    "word": "場所",
+    "part_of_speech": "名",
+    "chinese": "所在地，地方，场所",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "きょうしつ",
+    "word": "教室",
+    "part_of_speech": "名",
+    "chinese": "教室",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "かいぎしつ",
+    "word": "会議室",
+    "part_of_speech": "名",
+    "chinese": "会议室",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "としょしつ",
+    "word": "図書室",
+    "part_of_speech": "名",
+    "chinese": "图书室",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "こうえん",
+    "word": "公園",
+    "part_of_speech": "名",
+    "chinese": "公园",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "はなや",
+    "word": "花屋",
+    "part_of_speech": "名",
+    "chinese": "花店",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "ばいてん",
+    "word": "売店",
+    "part_of_speech": "名",
+    "chinese": "小卖部，售货亭",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "えき",
+    "word": "駅",
+    "part_of_speech": "名",
+    "chinese": "车站",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "ちかてつ",
+    "word": "地下鉄",
+    "part_of_speech": "名",
+    "chinese": "地铁",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "き",
+    "word": "樹",
+    "part_of_speech": "名",
+    "chinese": "树，树木",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "ひとりぐらし",
+    "word": "一人暮らし",
+    "part_of_speech": "名",
+    "chinese": "单身生活",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "あります",
+    "word": "",
+    "part_of_speech": "动1",
+    "chinese": "有，在(非意志者)",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "います",
+    "word": "",
+    "part_of_speech": "动2",
+    "chinese": "有，在(具意志者)",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "ええと",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "啊，嗯",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "よこはま",
+    "word": "横浜",
+    "part_of_speech": "专",
+    "chinese": "横滨",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "なごや",
+    "word": "名古屋",
+    "part_of_speech": "专",
+    "chinese": "名古屋",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "おおさか",
+    "word": "大阪",
+    "part_of_speech": "专",
+    "chinese": "大阪",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "ジェーアール",
+    "word": "JR",
+    "part_of_speech": "专",
+    "chinese": "JR",
+    "tone": 0
+  },
+  {
+    "lesson": 4,
+    "kana": "ご～",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "いま",
+    "word": "今",
+    "part_of_speech": "名",
+    "chinese": "现在",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "せんしゅう",
+    "word": "先週",
+    "part_of_speech": "名",
+    "chinese": "上个星期",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "らいしゅう",
+    "word": "来週",
+    "part_of_speech": "名",
+    "chinese": "下个星期",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "さらいしゅう",
+    "word": "さ来週",
+    "part_of_speech": "名",
+    "chinese": "下下个星期",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "こんしゅう",
+    "word": "今週",
+    "part_of_speech": "名",
+    "chinese": "这个星期",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "きのう",
+    "word": "昨日",
+    "part_of_speech": "名",
+    "chinese": "昨天",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "あした",
+    "word": "明日",
+    "part_of_speech": "名",
+    "chinese": "明天",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "あさって",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "后天",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "おととい",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "前天",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "まいにち",
+    "word": "毎日",
+    "part_of_speech": "名",
+    "chinese": "每天，每日",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "まいあさ",
+    "word": "毎朝",
+    "part_of_speech": "名",
+    "chinese": "每天早晨",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "まいばん",
+    "word": "毎晩",
+    "part_of_speech": "名",
+    "chinese": "每天晚上",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "まいしゅう",
+    "word": "毎週",
+    "part_of_speech": "名",
+    "chinese": "每个星期",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "ごぜん",
+    "word": "午前∕エーエム（am）",
+    "part_of_speech": "名",
+    "chinese": "上午",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "ごご",
+    "word": "午後∕ピーエム（pm）",
+    "part_of_speech": "名",
+    "chinese": "下午",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "にちようび",
+    "word": "日曜日",
+    "part_of_speech": "名",
+    "chinese": "星期日",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "げつようび",
+    "word": "月曜日",
+    "part_of_speech": "名",
+    "chinese": "星期一",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "かようび",
+    "word": "火曜日",
+    "part_of_speech": "名",
+    "chinese": "星期二",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "きんようび",
+    "word": "金曜日",
+    "part_of_speech": "名",
+    "chinese": "星期五",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "どようび",
+    "word": "土曜日",
+    "part_of_speech": "名",
+    "chinese": "星期六",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "けさ",
+    "word": "今朝",
+    "part_of_speech": "名",
+    "chinese": "今天早晨",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "こんばん",
+    "word": "今晩",
+    "part_of_speech": "名",
+    "chinese": "今天晚上",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "らいねん",
+    "word": "来年",
+    "part_of_speech": "名",
+    "chinese": "明年",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "きょねん",
+    "word": "去年",
+    "part_of_speech": "名",
+    "chinese": "去年",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "よる",
+    "word": "夜",
+    "part_of_speech": "名",
+    "chinese": "晚上，夜里，夜晚",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "ばん",
+    "word": "晩",
+    "part_of_speech": "名",
+    "chinese": "晚上",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "あさ",
+    "word": "朝",
+    "part_of_speech": "名",
+    "chinese": "早晨",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "がっこう",
+    "word": "学校",
+    "part_of_speech": "名",
+    "chinese": "学校",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "しけん",
+    "word": "試験",
+    "part_of_speech": "名",
+    "chinese": "考试",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "しごと",
+    "word": "仕事",
+    "part_of_speech": "名",
+    "chinese": "工作",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "ちこく",
+    "word": "遅刻",
+    "part_of_speech": "名",
+    "chinese": "迟到",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "やすみ",
+    "word": "休み",
+    "part_of_speech": "名",
+    "chinese": "休息",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "しゅっちょう",
+    "word": "出張",
+    "part_of_speech": "名",
+    "chinese": "出差",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "けんしゅう",
+    "word": "研修",
+    "part_of_speech": "名",
+    "chinese": "进修",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "りょこう",
+    "word": "旅行",
+    "part_of_speech": "名",
+    "chinese": "旅行",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "てんらんかい",
+    "word": "展覧会",
+    "part_of_speech": "名",
+    "chinese": "展览会",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "かんげいかい",
+    "word": "歓迎会",
+    "part_of_speech": "名",
+    "chinese": "欢迎会",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "パーティー",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "联欢会",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "おたく",
+    "word": "お宅",
+    "part_of_speech": "名",
+    "chinese": "府上，(您)家",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "いつ",
+    "word": "",
+    "part_of_speech": "疑",
+    "chinese": "什么时候",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "やすみます",
+    "word": "休みます",
+    "part_of_speech": "动1",
+    "chinese": "休息",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "はたらきます",
+    "word": "働きます",
+    "part_of_speech": "动1",
+    "chinese": "工作",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "はじまります",
+    "word": "始まります",
+    "part_of_speech": "动1",
+    "chinese": "开始",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "おわります",
+    "word": "終わります",
+    "part_of_speech": "动1",
+    "chinese": "结束",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "おきます",
+    "word": "起きます",
+    "part_of_speech": "动2",
+    "chinese": "起床",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "ねます",
+    "word": "寝ます",
+    "part_of_speech": "动2",
+    "chinese": "睡觉",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "べんきょうします",
+    "word": "勉強～",
+    "part_of_speech": "动3",
+    "chinese": "学习",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "いつも",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "经常，总是",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "ペキンししゃ",
+    "word": "北京支社",
+    "part_of_speech": "专",
+    "chinese": "北京分社",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "こうべ",
+    "word": "神戸",
+    "part_of_speech": "专",
+    "chinese": "神户",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "おはよう",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "你早",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "～じ∕～ふん∕～はん",
+    "word": "～時／～分／～半",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 5,
+    "kana": "～がつ∕～にち∕～ねん∕ごろ",
+    "word": "～月／～日／～年",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "らいげつ",
+    "word": "来月",
+    "part_of_speech": "名",
+    "chinese": "下个月",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "せんげつ",
+    "word": "先月",
+    "part_of_speech": "名",
+    "chinese": "上个月",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "よなか",
+    "word": "夜中",
+    "part_of_speech": "名",
+    "chinese": "午夜，半夜",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "ゆうべ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "昨天晚上",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "コンサート",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "音乐会",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "クリスマス",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "圣诞节",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "たんじょうび",
+    "word": "誕生日",
+    "part_of_speech": "名",
+    "chinese": "生日",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "こどものひ",
+    "word": "こどもの日",
+    "part_of_speech": "名",
+    "chinese": "儿童节",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "なつやすみ",
+    "word": "夏休み",
+    "part_of_speech": "名",
+    "chinese": "暑假",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "こうつうきかん",
+    "word": "交通機関",
+    "part_of_speech": "名",
+    "chinese": "交通工具",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "しんかんせん",
+    "word": "新幹線",
+    "part_of_speech": "名",
+    "chinese": "新干线",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "ひこうき",
+    "word": "飛行機",
+    "part_of_speech": "名",
+    "chinese": "飞机",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "フェリー",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "渡轮",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "でんしゃ",
+    "word": "電車",
+    "part_of_speech": "名",
+    "chinese": "电车",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "バス",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "公共汽车",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "タクシー",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "出租车",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "びじゅつかん",
+    "word": "美術館",
+    "part_of_speech": "名",
+    "chinese": "美术馆",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "アパート",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "公寓",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "うち",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "家",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "プール",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "游泳池",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "ともだち",
+    "word": "友達",
+    "part_of_speech": "名",
+    "chinese": "朋友",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "おとうと",
+    "word": "弟",
+    "part_of_speech": "名",
+    "chinese": "弟弟",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "いきます",
+    "word": "行きます",
+    "part_of_speech": "动1",
+    "chinese": "去",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "かえります",
+    "word": "帰ります",
+    "part_of_speech": "动1",
+    "chinese": "回来，回去",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "きます",
+    "word": "来ます",
+    "part_of_speech": "动3",
+    "chinese": "来",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "たしか",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "好像是，大概;的确",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "まっすぐ",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "径直，笔直",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "いっしょに",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "一起",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "さとう",
+    "word": "佐藤",
+    "part_of_speech": "专",
+    "chinese": "佐藤",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "ペキン",
+    "word": "北京",
+    "part_of_speech": "专",
+    "chinese": "北京",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "アメリカ",
+    "word": "",
+    "part_of_speech": "专",
+    "chinese": "美国",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "かんこく",
+    "word": "韓国",
+    "part_of_speech": "专",
+    "chinese": "韩国",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "フランス",
+    "word": "",
+    "part_of_speech": "专",
+    "chinese": "法国",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "ひろしま",
+    "word": "広島",
+    "part_of_speech": "专",
+    "chinese": "广岛",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "きょうと",
+    "word": "京都",
+    "part_of_speech": "专",
+    "chinese": "京都",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "ほっかいどう",
+    "word": "北海道",
+    "part_of_speech": "专",
+    "chinese": "北海道",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "はこね",
+    "word": "箱根",
+    "part_of_speech": "专",
+    "chinese": "箱根",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "ぎんざ",
+    "word": "銀座",
+    "part_of_speech": "专",
+    "chinese": "银座",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "しぶや",
+    "word": "渋谷",
+    "part_of_speech": "专",
+    "chinese": "涩谷",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "しんじゅく",
+    "word": "新宿",
+    "part_of_speech": "专",
+    "chinese": "新宿",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "おつかれさまでした",
+    "word": "お疲れ様でした",
+    "part_of_speech": "",
+    "chinese": "够累的",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "おさきにしつれいします",
+    "word": "お先に失礼します",
+    "part_of_speech": "",
+    "chinese": "我先走了，我先告辞了",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "あるいて",
+    "word": "歩いて",
+    "part_of_speech": "",
+    "chinese": "步行",
+    "tone": 0
+  },
+  {
+    "lesson": 6,
+    "kana": "たいへんですね",
+    "word": "大変ですね",
+    "part_of_speech": "",
+    "chinese": "真不容易，够受的，不得了",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "コーヒー",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "咖啡",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "コーラ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "可乐",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "おちゃ",
+    "word": "お茶",
+    "part_of_speech": "名",
+    "chinese": "茶",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "ワイン",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "葡萄酒",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "バン",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "面包",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "ケーキ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "蛋糕",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "おかゆ",
+    "word": "お粥",
+    "part_of_speech": "名",
+    "chinese": "粥",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "ひるごはん",
+    "word": "昼ご飯",
+    "part_of_speech": "名",
+    "chinese": "午饭",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "おべんとう",
+    "word": "お弁当",
+    "part_of_speech": "名",
+    "chinese": "盒饭",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "そば",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "荞麦面",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "うどん",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "面条",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "おやこどん",
+    "word": "親子丼",
+    "part_of_speech": "名",
+    "chinese": "鸡肉鸡蛋盖饭",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "カレー",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "咖喱(饭)",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "たまご",
+    "word": "卵",
+    "part_of_speech": "名",
+    "chinese": "鸡蛋",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "チーズ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "干酪",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "リンゴ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "苹果",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "イチゴ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "草莓",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "そばや",
+    "word": "そば屋",
+    "part_of_speech": "名",
+    "chinese": "荞麦面馆",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "テニス",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "网球",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "ジョギング",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "慢跑，跑步",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "サッカー",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "足球",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "やきゅう",
+    "word": "野球",
+    "part_of_speech": "名",
+    "chinese": "棒球",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "もうしこみしょ",
+    "word": "申込書",
+    "part_of_speech": "名",
+    "chinese": "申请书",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "てかみ",
+    "word": "手紙",
+    "part_of_speech": "名",
+    "chinese": "信",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "シーディー",
+    "word": "CD",
+    "part_of_speech": "名",
+    "chinese": "CD",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "おんがく",
+    "word": "音楽",
+    "part_of_speech": "名",
+    "chinese": "音乐",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "えいが",
+    "word": "映画",
+    "part_of_speech": "名",
+    "chinese": "电影",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "どうぶつえん",
+    "word": "動物園",
+    "part_of_speech": "名",
+    "chinese": "动物园",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "バンダ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "熊猫",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "のみます",
+    "word": "飲みます",
+    "part_of_speech": "动1",
+    "chinese": "喝",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "かいます",
+    "word": "買います",
+    "part_of_speech": "动1",
+    "chinese": "买",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "とります",
+    "word": "撮ります",
+    "part_of_speech": "动1",
+    "chinese": "拍照，拍摄",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "かきます",
+    "word": "書きます",
+    "part_of_speech": "动1",
+    "chinese": "写",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "よみます",
+    "word": "読みます",
+    "part_of_speech": "动1",
+    "chinese": "读",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "ききます",
+    "word": "聞きます",
+    "part_of_speech": "动1",
+    "chinese": "听",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "たべます",
+    "word": "食べます",
+    "part_of_speech": "动2",
+    "chinese": "吃",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "みます",
+    "word": "見ます",
+    "part_of_speech": "动2",
+    "chinese": "看",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "します",
+    "word": "",
+    "part_of_speech": "动3",
+    "chinese": "干，做",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "そうじします",
+    "word": "掃除～",
+    "part_of_speech": "动3",
+    "chinese": "打扫，扫除",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "これから",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "从现在起，今后",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "じゃあ∕では",
+    "word": "",
+    "part_of_speech": "连",
+    "chinese": "那么",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "いらっしゃいませ",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "欢迎光临",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "しつれいします",
+    "word": "失礼します",
+    "part_of_speech": "",
+    "chinese": "告辞了，我走了",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "しつれいしました",
+    "word": "失礼しました",
+    "part_of_speech": "",
+    "chinese": "打搅了，失礼了",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "いってまいります",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "我走了",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "いってきます　我走了",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "いってらっしゃい",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "你走好",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "ただいま",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "我回来了",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "おかえりなさい",
+    "word": "お帰りなさい",
+    "part_of_speech": "",
+    "chinese": "你回来了",
+    "tone": 0
+  },
+  {
+    "lesson": 7,
+    "kana": "かしこまりました",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "我知道了",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "プレゼント",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "礼物",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "チケット",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "票",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "パンフレット",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "小册子",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "きねんひん",
+    "word": "記念品",
+    "part_of_speech": "名",
+    "chinese": "纪念品",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "スケジュールひょう",
+    "word": "～表",
+    "part_of_speech": "名",
+    "chinese": "日程表",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "しゃしんしゅう",
+    "word": "写真集",
+    "part_of_speech": "名",
+    "chinese": "影集",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "はな",
+    "word": "花",
+    "part_of_speech": "名",
+    "chinese": "花",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "おかね",
+    "word": "お金",
+    "part_of_speech": "名",
+    "chinese": "钱，金钱",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "ボールペン",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "圆珠笔",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "しゅくだい",
+    "word": "宿題",
+    "part_of_speech": "名",
+    "chinese": "作业",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "こうくうびん",
+    "word": "航空便",
+    "part_of_speech": "名",
+    "chinese": "航空邮件",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "そくたつ",
+    "word": "速達",
+    "part_of_speech": "名",
+    "chinese": "速递，快件",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "ファックス",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "传真",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "メール",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "邮件",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "でんおばんごう",
+    "word": "電話番号",
+    "part_of_speech": "名",
+    "chinese": "电话号码",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "じゅうしょ",
+    "word": "住所",
+    "part_of_speech": "名",
+    "chinese": "住址",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "なまえ",
+    "word": "名前",
+    "part_of_speech": "名",
+    "chinese": "姓名",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "けん",
+    "word": "件",
+    "part_of_speech": "名",
+    "chinese": "事件，事情",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "しんぶんし",
+    "word": "新聞紙",
+    "part_of_speech": "名",
+    "chinese": "报纸",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "かみひこうき",
+    "word": "紙飛行機",
+    "part_of_speech": "名",
+    "chinese": "纸折的飞机",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "チョコレート",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "巧克力",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "アイスクリーム",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "冰激凌",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "こむぎこ",
+    "word": "小麦粉",
+    "part_of_speech": "名",
+    "chinese": "面粉",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "はし",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "筷子",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "スプーン",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "勺子",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "おにいさん",
+    "word": "お兄さん",
+    "part_of_speech": "名",
+    "chinese": "哥哥",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "かんこくご",
+    "word": "韓国語",
+    "part_of_speech": "名",
+    "chinese": "韩语",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "ゆうがた",
+    "word": "夕方",
+    "part_of_speech": "名",
+    "chinese": "傍晚",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "ひるやすみ",
+    "word": "昼休み",
+    "part_of_speech": "名",
+    "chinese": "午休",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "もらいます",
+    "word": "",
+    "part_of_speech": "动1",
+    "chinese": "拿到，得到",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "あいます",
+    "word": "会います",
+    "part_of_speech": "动1",
+    "chinese": "见",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "おくります",
+    "word": "送ります",
+    "part_of_speech": "动1",
+    "chinese": "寄",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "つくります",
+    "word": "作ります",
+    "part_of_speech": "动1",
+    "chinese": "做，制造",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "ふとります",
+    "word": "太ります",
+    "part_of_speech": "动1",
+    "chinese": "胖",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "だします",
+    "word": "出します",
+    "part_of_speech": "动1",
+    "chinese": "寄(信)",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "とどきます",
+    "word": "届きます",
+    "part_of_speech": "动1",
+    "chinese": "收到，送到，寄到",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "かきます",
+    "word": "",
+    "part_of_speech": "动1",
+    "chinese": "画",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "かします",
+    "word": "貸します",
+    "part_of_speech": "动1",
+    "chinese": "借出，借给",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "ならいます",
+    "word": "習います",
+    "part_of_speech": "动1",
+    "chinese": "学习",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "あげます",
+    "word": "",
+    "part_of_speech": "动2",
+    "chinese": "给",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "かけます",
+    "word": "",
+    "part_of_speech": "动2",
+    "chinese": "打(电话)",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "かります",
+    "word": "借ります",
+    "part_of_speech": "动2",
+    "chinese": "(向别人)借",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "おしえます",
+    "word": "教えます",
+    "part_of_speech": "动2",
+    "chinese": "教",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "もう",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "已经",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "さっき",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "刚才",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "たったいま",
+    "word": "たった今",
+    "part_of_speech": "副",
+    "chinese": "刚刚",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "もういちど",
+    "word": "もう一度",
+    "part_of_speech": "副",
+    "chinese": "再一次",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "まえに",
+    "word": "前に",
+    "part_of_speech": "副",
+    "chinese": "以前",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "ちん",
+    "word": "陳",
+    "part_of_speech": "专",
+    "chinese": "陈",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "どうですか",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "怎样，如何",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "おねがいします",
+    "word": "お願いします",
+    "part_of_speech": "",
+    "chinese": "拜托了",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "わかりました",
+    "word": "分かりました",
+    "part_of_speech": "",
+    "chinese": "明白了",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "よかったです",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "太好了",
+    "tone": 0
+  },
+  {
+    "lesson": 8,
+    "kana": "～様さま",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "りょうり",
+    "word": "料理",
+    "part_of_speech": "名",
+    "chinese": "菜肴，饭菜",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "しせんりょうり",
+    "word": "四川料理",
+    "part_of_speech": "名",
+    "chinese": "四川菜",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "スーブ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "汤",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "ぺキンダック",
+    "word": "北京～",
+    "part_of_speech": "名",
+    "chinese": "北京烤鸭",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "たべもの",
+    "word": "食べ物",
+    "part_of_speech": "名",
+    "chinese": "食物，食品",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "すきやき",
+    "word": "すき焼き",
+    "part_of_speech": "名",
+    "chinese": "日式牛肉火锅",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "おんせん",
+    "word": "温泉",
+    "part_of_speech": "名",
+    "chinese": "温泉",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "おゆ",
+    "word": "お湯",
+    "part_of_speech": "名",
+    "chinese": "热水，开水",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "みず",
+    "word": "水",
+    "part_of_speech": "名",
+    "chinese": "水，凉水",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "ゆかた",
+    "word": "浴衣",
+    "part_of_speech": "名",
+    "chinese": "浴衣，夏季和服",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "ながめ",
+    "word": "眺め",
+    "part_of_speech": "名",
+    "chinese": "景色，风景",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "くすり",
+    "word": "薬",
+    "part_of_speech": "名",
+    "chinese": "药",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "てんき",
+    "word": "天気",
+    "part_of_speech": "名",
+    "chinese": "天气",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "うみ",
+    "word": "海",
+    "part_of_speech": "名",
+    "chinese": "大海",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "やま",
+    "word": "山",
+    "part_of_speech": "名",
+    "chinese": "山",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "かみ",
+    "word": "紙",
+    "part_of_speech": "名",
+    "chinese": "纸",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "ニュース",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "新闻",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "じょせい",
+    "word": "女性",
+    "part_of_speech": "名",
+    "chinese": "女性",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "おきゃくさま",
+    "word": "お客様",
+    "part_of_speech": "名",
+    "chinese": "来宾",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "グラス",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "玻璃杯",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "かぶき",
+    "word": "歌舞伎",
+    "part_of_speech": "名",
+    "chinese": "歌舞伎",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "きもち",
+    "word": "気持ち",
+    "part_of_speech": "名",
+    "chinese": "心情",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "たくさん",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "很多",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "からい",
+    "word": "辛い",
+    "part_of_speech": "形1",
+    "chinese": "辣",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "あまい",
+    "word": "甘い",
+    "part_of_speech": "形1",
+    "chinese": "甜",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "しおからい",
+    "word": "塩辛い∕しょっぱい",
+    "part_of_speech": "形1",
+    "chinese": "咸",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "すっぱい",
+    "word": "酸っぱい",
+    "part_of_speech": "形1",
+    "chinese": "酸",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "にがい",
+    "word": "苦い",
+    "part_of_speech": "形1",
+    "chinese": "苦",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "おいしい",
+    "word": "",
+    "part_of_speech": "形1",
+    "chinese": "好吃，可口",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "まずい",
+    "word": "",
+    "part_of_speech": "形1",
+    "chinese": "不好吃，难吃",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "あつい",
+    "word": "",
+    "part_of_speech": "形1",
+    "chinese": "热，烫",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "つめたい",
+    "word": "冷たい",
+    "part_of_speech": "形1",
+    "chinese": "凉",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "たのしい",
+    "word": "楽しい",
+    "part_of_speech": "形1",
+    "chinese": "愉快，快乐",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "おもしろい",
+    "word": "",
+    "part_of_speech": "形1",
+    "chinese": "有趣，有意思",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "つまらない",
+    "word": "",
+    "part_of_speech": "形1",
+    "chinese": "无聊",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "ひろい",
+    "word": "広い",
+    "part_of_speech": "形1",
+    "chinese": "广阔，宽敞",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "せまい",
+    "word": "狭い",
+    "part_of_speech": "形1",
+    "chinese": "狭窄",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "おおきい",
+    "word": "大きい",
+    "part_of_speech": "形1",
+    "chinese": "大",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "ちいさい",
+    "word": "小さい",
+    "part_of_speech": "形1",
+    "chinese": "小",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "いそがしい",
+    "word": "忙しい",
+    "part_of_speech": "形1",
+    "chinese": "忙，忙碌",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "いい",
+    "word": "",
+    "part_of_speech": "形1",
+    "chinese": "好",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "わるい",
+    "word": "悪い",
+    "part_of_speech": "形1",
+    "chinese": "不好，坏",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "すばらしい",
+    "word": "",
+    "part_of_speech": "形1",
+    "chinese": "极好，绝佳",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "とおい",
+    "word": "遠い",
+    "part_of_speech": "形1",
+    "chinese": "远",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "ちかい",
+    "word": "近い",
+    "part_of_speech": "形1",
+    "chinese": "近",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "たかい",
+    "word": "高い",
+    "part_of_speech": "形1",
+    "chinese": "高，贵",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "ひくい",
+    "word": "低い",
+    "part_of_speech": "形1",
+    "chinese": "低",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "やすい",
+    "word": "安い",
+    "part_of_speech": "形1",
+    "chinese": "便宜",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "さむい",
+    "word": "寒い",
+    "part_of_speech": "形1",
+    "chinese": "寒冷",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "あつい",
+    "word": "暑い",
+    "part_of_speech": "形1",
+    "chinese": "(天气)热",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "あおい",
+    "word": "青い",
+    "part_of_speech": "形1",
+    "chinese": "蓝色的",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "しろい",
+    "word": "白い",
+    "part_of_speech": "形1",
+    "chinese": "白色的",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "あたらしい",
+    "word": "新しい",
+    "part_of_speech": "形1",
+    "chinese": "新",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "ふるい",
+    "word": "古い",
+    "part_of_speech": "形1",
+    "chinese": "旧",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "むずかしい",
+    "word": "難しい",
+    "part_of_speech": "形1",
+    "chinese": "难",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "やさしい",
+    "word": "易しい",
+    "part_of_speech": "形1",
+    "chinese": "容易",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "おおい",
+    "word": "多い",
+    "part_of_speech": "形1",
+    "chinese": "多",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "すくない",
+    "word": "少ない",
+    "part_of_speech": "形1",
+    "chinese": "少",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "かわいい",
+    "word": "",
+    "part_of_speech": "形1",
+    "chinese": "可爱",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "ほんとうに",
+    "word": "本当に",
+    "part_of_speech": "副",
+    "chinese": "真的，实在是",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "あまり",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "不(太)～，不很～",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "とても∕たいへん",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "很，非常",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "すこし",
+    "word": "少し∕ちょっと",
+    "part_of_speech": "副",
+    "chinese": "一点儿",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "ぜんぜん",
+    "word": "全然",
+    "part_of_speech": "副",
+    "chinese": "根本(不)，全然(不)",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "ちょうど",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "正好，恰好",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "あら∕あれ",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "哎呀，咦",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "ああ",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "啊",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "てんあんもん",
+    "word": "天安門",
+    "part_of_speech": "专",
+    "chinese": "天安门",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "ばんりのちょうじょう",
+    "word": "万里の長城",
+    "part_of_speech": "专",
+    "chinese": "万里长城",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "きもちがいい",
+    "word": "気持ちがいい",
+    "part_of_speech": "",
+    "chinese": "感觉舒服，心情愉快",
+    "tone": 0
+  },
+  {
+    "lesson": 9,
+    "kana": "～用よう",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "もみじ",
+    "word": "紅葉",
+    "part_of_speech": "名",
+    "chinese": "红叶",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "こきょう",
+    "word": "故郷",
+    "part_of_speech": "名",
+    "chinese": "故乡",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "とおり",
+    "word": "通り",
+    "part_of_speech": "名",
+    "chinese": "大街",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "まち",
+    "word": "町",
+    "part_of_speech": "名",
+    "chinese": "城市，街道",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "ところ",
+    "word": "所",
+    "part_of_speech": "名",
+    "chinese": "场所",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "おみせ",
+    "word": "お店",
+    "part_of_speech": "名",
+    "chinese": "餐馆;商店",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "にんぎょう",
+    "word": "人形",
+    "part_of_speech": "名",
+    "chinese": "玩偶",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "さくひん",
+    "word": "作品",
+    "part_of_speech": "名",
+    "chinese": "作品",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "ちょうこく",
+    "word": "彫刻",
+    "part_of_speech": "名",
+    "chinese": "雕刻",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "じどうしゃ",
+    "word": "自動車",
+    "part_of_speech": "名",
+    "chinese": "汽车",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "どうぐ",
+    "word": "道具",
+    "part_of_speech": "名",
+    "chinese": "工具",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "さかな",
+    "word": "魚",
+    "part_of_speech": "名",
+    "chinese": "鱼",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "おかし",
+    "word": "お菓子",
+    "part_of_speech": "名",
+    "chinese": "点心",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "もの",
+    "word": "物",
+    "part_of_speech": "名",
+    "chinese": "物品，东西",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "シーズン",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "季节",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "しゅうがくりょこう",
+    "word": "修学旅行",
+    "part_of_speech": "名",
+    "chinese": "修学旅行",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "かんこうきゃく",
+    "word": "観光客",
+    "part_of_speech": "名",
+    "chinese": "游客",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "さっか",
+    "word": "作家",
+    "part_of_speech": "名",
+    "chinese": "作家",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "ぶちょう",
+    "word": "部長",
+    "part_of_speech": "名",
+    "chinese": "部长",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "へいじつ",
+    "word": "平日",
+    "part_of_speech": "名",
+    "chinese": "平日，非休息日",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "ひ",
+    "word": "日",
+    "part_of_speech": "名",
+    "chinese": "日子",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "せいかつ",
+    "word": "生活",
+    "part_of_speech": "名",
+    "chinese": "生活",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "せかい",
+    "word": "世界",
+    "part_of_speech": "名",
+    "chinese": "世界",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "はれ",
+    "word": "晴れ",
+    "part_of_speech": "名",
+    "chinese": "晴天",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "あめ",
+    "word": "雨",
+    "part_of_speech": "名",
+    "chinese": "雨，下雨",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "くもり",
+    "word": "曇り",
+    "part_of_speech": "名",
+    "chinese": "阴天",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "ゆき",
+    "word": "雪",
+    "part_of_speech": "名",
+    "chinese": "雪",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "きたない",
+    "word": "汚い",
+    "part_of_speech": "形1",
+    "chinese": "脏",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "きれい",
+    "word": "",
+    "part_of_speech": "形2",
+    "chinese": "漂亮，干净",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "ゆうめい",
+    "word": "有名",
+    "part_of_speech": "形1",
+    "chinese": "有名",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "にぎやか",
+    "word": "",
+    "part_of_speech": "形2",
+    "chinese": "热闹，繁华",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "しずか",
+    "word": "静か",
+    "part_of_speech": "形2",
+    "chinese": "安静",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "ひま",
+    "word": "暇",
+    "part_of_speech": "形2",
+    "chinese": "空闲",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "しんせつ",
+    "word": "親切",
+    "part_of_speech": "形2",
+    "chinese": "热情",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "すき",
+    "word": "好き",
+    "part_of_speech": "形2",
+    "chinese": "喜欢",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "きらい",
+    "word": "嫌い",
+    "part_of_speech": "形2",
+    "chinese": "讨厌",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "べんり",
+    "word": "便利",
+    "part_of_speech": "形2",
+    "chinese": "方便",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "ふべん",
+    "word": "不便",
+    "part_of_speech": "形2",
+    "chinese": "不方便",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "げんき",
+    "word": "元気",
+    "part_of_speech": "形2",
+    "chinese": "健康，有精神",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "かんたん",
+    "word": "簡単",
+    "part_of_speech": "形2",
+    "chinese": "简单",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "ハンサム",
+    "word": "",
+    "part_of_speech": "形2",
+    "chinese": "英俊，帅气",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "どんな",
+    "word": "",
+    "part_of_speech": "疑",
+    "chinese": "什么样的，怎样的",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "どう",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "怎样，如何",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "いかが",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "如何",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "いろいろ",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "各种各样",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "でも",
+    "word": "",
+    "part_of_speech": "连",
+    "chinese": "可是，不过",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "そして",
+    "word": "",
+    "part_of_speech": "连",
+    "chinese": "而且，于是",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "ところで",
+    "word": "",
+    "part_of_speech": "连",
+    "chinese": "(转换话题)",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "あれえ",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "咦",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "なら",
+    "word": "奈良",
+    "part_of_speech": "专",
+    "chinese": "奈良",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "ふじさん",
+    "word": "富士山",
+    "part_of_speech": "专",
+    "chinese": "富士山",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "もうすこし",
+    "word": "もう少し",
+    "part_of_speech": "",
+    "chinese": "再～一点",
+    "tone": 0
+  },
+  {
+    "lesson": 10,
+    "kana": "～中じゅう",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "うた",
+    "word": "歌",
+    "part_of_speech": "名",
+    "chinese": "歌，歌曲",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "カラオケ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "卡拉OK",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "ロック",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "摇滚乐",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "ボブッス",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "流行音乐",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "クラシック",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "西方古典音乐",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "ピアノ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "钢琴",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "え",
+    "word": "絵",
+    "part_of_speech": "名",
+    "chinese": "画儿",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "えいご",
+    "word": "英語",
+    "part_of_speech": "名",
+    "chinese": "英语",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "スペインご",
+    "word": "～語",
+    "part_of_speech": "名",
+    "chinese": "西班牙语",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "スポーツ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "体育，运动",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "すいえい",
+    "word": "水泳",
+    "part_of_speech": "名",
+    "chinese": "游泳",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "ゴルフ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "高尔夫球",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "うんてん",
+    "word": "運転",
+    "part_of_speech": "名",
+    "chinese": "开车",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "のみもの",
+    "word": "飲み物",
+    "part_of_speech": "名",
+    "chinese": "饮料",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "おさけ",
+    "word": "お酒",
+    "part_of_speech": "名",
+    "chinese": "酒，酒类",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "にく",
+    "word": "肉",
+    "part_of_speech": "名",
+    "chinese": "肉",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "やさい",
+    "word": "野菜",
+    "part_of_speech": "名",
+    "chinese": "蔬菜",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "くだもの",
+    "word": "果物",
+    "part_of_speech": "名",
+    "chinese": "水果",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "ヒマワリ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "向日葵",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "バラ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "蔷薇，玫瑰",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "コンピュータ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "计算机，电脑",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "まど",
+    "word": "窓",
+    "part_of_speech": "名",
+    "chinese": "窗，窗户",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "けっこんしき",
+    "word": "結婚式",
+    "part_of_speech": "名",
+    "chinese": "结婚典礼",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "しゃしんてん",
+    "word": "写真展",
+    "part_of_speech": "名",
+    "chinese": "摄影展",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "りょかん",
+    "word": "旅館",
+    "part_of_speech": "名",
+    "chinese": "旅馆，旅店",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "べっそう",
+    "word": "別荘",
+    "part_of_speech": "名",
+    "chinese": "别墅",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "よせぎざいく",
+    "word": "寄木細工",
+    "part_of_speech": "名",
+    "chinese": "木片儿拼花工艺品",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "もよう",
+    "word": "模様",
+    "part_of_speech": "名",
+    "chinese": "花纹，纹案",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "がいこく",
+    "word": "外国",
+    "part_of_speech": "名",
+    "chinese": "外国",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "かいぎ",
+    "word": "会議",
+    "part_of_speech": "名",
+    "chinese": "会议",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "あし",
+    "word": "脚",
+    "part_of_speech": "名",
+    "chinese": "腿",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "ぼく",
+    "word": "",
+    "part_of_speech": "代",
+    "chinese": "我(男性自称)",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "わかります",
+    "word": "分かります",
+    "part_of_speech": "动1",
+    "chinese": "懂，明白",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "まよいます",
+    "word": "迷います",
+    "part_of_speech": "动1",
+    "chinese": "犹豫，难以决定",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "できます",
+    "word": "",
+    "part_of_speech": "动2",
+    "chinese": "会;能;完成",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "しめます",
+    "word": "閉めます",
+    "part_of_speech": "动2",
+    "chinese": "关闭，关门",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "つかれます",
+    "word": "疲れます",
+    "part_of_speech": "动2",
+    "chinese": "疲倦，疲惫",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "さんぽします",
+    "word": "散歩～",
+    "part_of_speech": "动3",
+    "chinese": "散步",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "こわい",
+    "word": "怖い",
+    "part_of_speech": "形1",
+    "chinese": "害怕，恐怖",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "あかい",
+    "word": "赤い",
+    "part_of_speech": "形1",
+    "chinese": "红",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "いたい",
+    "word": "痛い",
+    "part_of_speech": "形1",
+    "chinese": "疼，疼痛",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "じょうず",
+    "word": "上手",
+    "part_of_speech": "形2",
+    "chinese": "擅长，高明，水平高",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "へた",
+    "word": "下手",
+    "part_of_speech": "形2",
+    "chinese": "不高明，水平低",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "にがて",
+    "word": "苦手",
+    "part_of_speech": "形2",
+    "chinese": "不擅长，不善于",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "ときどき",
+    "word": "時々",
+    "part_of_speech": "副",
+    "chinese": "有时，时不时",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "よく",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "经常，常常",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "たまに",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "偶尔，很少",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "また",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "还，再，又",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "どうして",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "为什么",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "だから∕ですから",
+    "word": "",
+    "part_of_speech": "连",
+    "chinese": "所以，因此",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "うーん",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "嗯……，这个……",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "けっこうです",
+    "word": "結構です",
+    "part_of_speech": "",
+    "chinese": "不用，不要",
+    "tone": 0
+  },
+  {
+    "lesson": 11,
+    "kana": "きにいります",
+    "word": "気に入ります",
+    "part_of_speech": "",
+    "chinese": "喜欢，中意",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "きせつ",
+    "word": "季節",
+    "part_of_speech": "名",
+    "chinese": "季节",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "ふゆ",
+    "word": "冬",
+    "part_of_speech": "名",
+    "chinese": "冬天，冬季",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "はる",
+    "word": "春",
+    "part_of_speech": "名",
+    "chinese": "春天，春季",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "にほんりょうり",
+    "word": "日本料理",
+    "part_of_speech": "名",
+    "chinese": "日式饭菜",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "すし",
+    "word": "寿司",
+    "part_of_speech": "名",
+    "chinese": "寿司",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "ナシ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "梨",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "バナナ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "香蕉",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "ミカン",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "橘子",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "しょうちゅう",
+    "word": "焼酎",
+    "part_of_speech": "名",
+    "chinese": "烧酒",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "にほんしゅ",
+    "word": "日本酒",
+    "part_of_speech": "名",
+    "chinese": "日本酒",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "こうちゃ",
+    "word": "紅茶",
+    "part_of_speech": "名",
+    "chinese": "红茶",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "ウーロンちゃ",
+    "word": "～茶",
+    "part_of_speech": "名",
+    "chinese": "乌龙茶",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "ジャスミンちゃ",
+    "word": "～茶",
+    "part_of_speech": "名",
+    "chinese": "茉莉花茶",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "りょくちゃ",
+    "word": "緑茶",
+    "part_of_speech": "名",
+    "chinese": "绿茶",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "ジュース",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "果汁",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "にんき",
+    "word": "人気",
+    "part_of_speech": "名",
+    "chinese": "声望，受欢迎",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "せき",
+    "word": "席",
+    "part_of_speech": "名",
+    "chinese": "座位，席位",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "クラス",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "班级",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "しゅるい",
+    "word": "種類",
+    "part_of_speech": "名",
+    "chinese": "种类",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "せ",
+    "word": "背",
+    "part_of_speech": "名",
+    "chinese": "个子",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "あに",
+    "word": "兄",
+    "part_of_speech": "名",
+    "chinese": "哥哥，兄长",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "さいきん",
+    "word": "最近",
+    "part_of_speech": "名",
+    "chinese": "最近，近来",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "ふります",
+    "word": "降ります",
+    "part_of_speech": "动1",
+    "chinese": "下(雨，雪)，降(雨，雪)",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "わかい",
+    "word": "若い",
+    "part_of_speech": "形1",
+    "chinese": "年轻",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "あたたかい",
+    "word": "暖かい",
+    "part_of_speech": "形1",
+    "chinese": "暖和，温暖",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "すずしい",
+    "word": "涼しい",
+    "part_of_speech": "形1",
+    "chinese": "凉爽",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "はやい",
+    "word": "速い",
+    "part_of_speech": "形1",
+    "chinese": "快",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "だいすき",
+    "word": "大好き",
+    "part_of_speech": "形2",
+    "chinese": "非常喜欢",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "いちばん",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "最，第一",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "ずっと",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "～得多",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "やはり∕やっぱり",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "仍然，还是",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "エベレスト",
+    "word": "",
+    "part_of_speech": "专",
+    "chinese": "珠穆朗玛峰",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "にんきがあります",
+    "word": "人気があります",
+    "part_of_speech": "",
+    "chinese": "受欢迎",
+    "tone": 0
+  },
+  {
+    "lesson": 12,
+    "kana": "～年間ねんかん",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "にもつ",
+    "word": "荷物",
+    "part_of_speech": "名",
+    "chinese": "包裹",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "はがき",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "明信片",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "きって",
+    "word": "切手",
+    "part_of_speech": "名",
+    "chinese": "邮票",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "ひきだし",
+    "word": "引き出し",
+    "part_of_speech": "名",
+    "chinese": "抽屉",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "アルバム",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "相册",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "タバコ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "烟，烟草",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "まんが",
+    "word": "漫画",
+    "part_of_speech": "名",
+    "chinese": "漫画",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "ガレージ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "车库，汽车房",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "しゅうり",
+    "word": "修理",
+    "part_of_speech": "名",
+    "chinese": "修理",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "いざかや",
+    "word": "居酒屋",
+    "part_of_speech": "名",
+    "chinese": "酒馆",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "なまビール",
+    "word": "生～",
+    "part_of_speech": "名",
+    "chinese": "生啤",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "やきとり",
+    "word": "焼き鳥",
+    "part_of_speech": "名",
+    "chinese": "烤鸡肉串",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "からあげ",
+    "word": "唐揚げ",
+    "part_of_speech": "名",
+    "chinese": "炸鸡，油炸食品",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "にくじゃが",
+    "word": "肉じゃが",
+    "part_of_speech": "名",
+    "chinese": "土豆炖肉",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "ボーリング",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "保龄球",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "かみ",
+    "word": "髪",
+    "part_of_speech": "名",
+    "chinese": "头发",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "ぞう",
+    "word": "象",
+    "part_of_speech": "名",
+    "chinese": "象，大象",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "ひる",
+    "word": "昼",
+    "part_of_speech": "名",
+    "chinese": "白天，中午",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "ほか",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "另外，其他",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "かかります",
+    "word": "",
+    "part_of_speech": "动1",
+    "chinese": "花费(时间，金钱)",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "さきます",
+    "word": "咲きます",
+    "part_of_speech": "动1",
+    "chinese": "花开",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "およぎます",
+    "word": "泳ぎます",
+    "part_of_speech": "动1",
+    "chinese": "游泳",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "あそびます",
+    "word": "遊びます",
+    "part_of_speech": "动1",
+    "chinese": "玩，玩耍",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "すいます",
+    "word": "吸います",
+    "part_of_speech": "动1",
+    "chinese": "吸(烟)",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "きります",
+    "word": "切ります",
+    "part_of_speech": "动1",
+    "chinese": "剪，切，割",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "だいたい",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "大约，大概，大体",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "とりあえず",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "暂且",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "どのぐらい∕どれぐらい",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "多久，多少钱",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "～冊さつ∕～回かい∕～枚まい",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "～個こ∕～杯はい∕～人にん",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "～台だい∕～本ほん∕～頭とう",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "～匹ひき∕～つ∕～着ちゃく",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "～羽わ∕～番ばん∕～足そく",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "～度ど∕～キロメートル∕～皿さら",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 13,
+    "kana": "～じかん∕～しゅうかん∕～かげつ",
+    "word": "～時間∕～週間∕～か月",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "ふなびん",
+    "word": "船便",
+    "part_of_speech": "名",
+    "chinese": "海运",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "しょるい",
+    "word": "書類",
+    "part_of_speech": "名",
+    "chinese": "文件，文稿",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "げんこう",
+    "word": "原稿",
+    "part_of_speech": "名",
+    "chinese": "稿子，原稿",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "きじ",
+    "word": "記事",
+    "part_of_speech": "名",
+    "chinese": "报道",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "メモ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "记录",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "えきまえ",
+    "word": "駅前",
+    "part_of_speech": "名",
+    "chinese": "车站一带",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "はし",
+    "word": "橋",
+    "part_of_speech": "名",
+    "chinese": "桥，桥梁",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "かど",
+    "word": "角",
+    "part_of_speech": "名",
+    "chinese": "拐角",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "おうだんほどう",
+    "word": "横断歩道",
+    "part_of_speech": "名",
+    "chinese": "人行横道",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "みぎ",
+    "word": "右",
+    "part_of_speech": "名",
+    "chinese": "右，右边",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "ひだり",
+    "word": "左",
+    "part_of_speech": "名",
+    "chinese": "左，左边",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "こうさてん",
+    "word": "交差点",
+    "part_of_speech": "名",
+    "chinese": "十字路口",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "みち",
+    "word": "道",
+    "part_of_speech": "名",
+    "chinese": "路，道路",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "ドア",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "门",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "でんき",
+    "word": "電気",
+    "part_of_speech": "名",
+    "chinese": "电，电力",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "たいきょくけん",
+    "word": "太極拳",
+    "part_of_speech": "名",
+    "chinese": "太极拳",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "あさごはん",
+    "word": "朝ご飯",
+    "part_of_speech": "名",
+    "chinese": "早饭",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "ばんごはん",
+    "word": "晩ご飯",
+    "part_of_speech": "名",
+    "chinese": "晚饭",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "バーベキュー",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "户外烧烤",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "とおります",
+    "word": "通ります",
+    "part_of_speech": "动1",
+    "chinese": "通过，经过",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "いそぎます",
+    "word": "急ぎます",
+    "part_of_speech": "动1",
+    "chinese": "急，急忙",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "とびます",
+    "word": "飛びます",
+    "part_of_speech": "动1",
+    "chinese": "飞，飞行",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "しにます",
+    "word": "死にます",
+    "part_of_speech": "动1",
+    "chinese": "死，死亡",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "まちます",
+    "word": "待ちます",
+    "part_of_speech": "动1",
+    "chinese": "等待，等候",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "うります",
+    "word": "売ります",
+    "part_of_speech": "动1",
+    "chinese": "卖，销售",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "はなします",
+    "word": "話します",
+    "part_of_speech": "动1",
+    "chinese": "说话，说",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "わたります",
+    "word": "渡ります",
+    "part_of_speech": "动1",
+    "chinese": "过(桥，河)，穿过(马路)",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "おろします",
+    "word": "下ろします",
+    "part_of_speech": "动1",
+    "chinese": "取，卸货",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "えらびます",
+    "word": "選びます",
+    "part_of_speech": "动1",
+    "chinese": "挑选，选择",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "けします",
+    "word": "消します",
+    "part_of_speech": "动1",
+    "chinese": "关(灯)，消除，去除",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "あるきます",
+    "word": "歩きます",
+    "part_of_speech": "动1",
+    "chinese": "步行，行走",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "まがります",
+    "word": "曲がります",
+    "part_of_speech": "动1",
+    "chinese": "拐弯，曲折",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "あらいます",
+    "word": "洗います",
+    "part_of_speech": "动1",
+    "chinese": "洗，洗涤",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "でます",
+    "word": "出ます",
+    "part_of_speech": "动2",
+    "chinese": "离开",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "でかけます",
+    "word": "出かけます",
+    "part_of_speech": "动2",
+    "chinese": "外出，出门",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "あけます",
+    "word": "開けます",
+    "part_of_speech": "动2",
+    "chinese": "开，打开，开启",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "すぎます",
+    "word": "過ぎます",
+    "part_of_speech": "动2",
+    "chinese": "过",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "みせます",
+    "word": "見せます",
+    "part_of_speech": "动2",
+    "chinese": "给～看;出示",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "つけます",
+    "word": "",
+    "part_of_speech": "动2",
+    "chinese": "开(灯)",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "おります",
+    "word": "降ります",
+    "part_of_speech": "动2",
+    "chinese": "下(车，山)",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "かいものします",
+    "word": "買い物～",
+    "part_of_speech": "动3",
+    "chinese": "买东西",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "そつぎょうします",
+    "word": "卒業～",
+    "part_of_speech": "动3",
+    "chinese": "毕业",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "しょくじします",
+    "word": "食事～",
+    "part_of_speech": "动3",
+    "chinese": "吃饭，用餐",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "せいりします",
+    "word": "整理～",
+    "part_of_speech": "动3",
+    "chinese": "整理",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "コピーします",
+    "word": "",
+    "part_of_speech": "动3",
+    "chinese": "复印",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "くらい",
+    "word": "暗い",
+    "part_of_speech": "形1",
+    "chinese": "黑暗，昏暗",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "たいへん",
+    "word": "大変",
+    "part_of_speech": "形2",
+    "chinese": "够受的，不得了",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "なかなか",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "相当，很，非常",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "こう",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "这样，如此",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "そう∕ああ",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "那样",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "あとで",
+    "word": "後で",
+    "part_of_speech": "副",
+    "chinese": "过会儿",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "それから",
+    "word": "",
+    "part_of_speech": "连",
+    "chinese": "然后",
+    "tone": 0
+  },
+  {
+    "lesson": 14,
+    "kana": "すみませんが",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "对不起……，劳驾……",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "ボート",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "小船，小艇",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "ベンチ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "长椅，长凳",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "しやくしょ",
+    "word": "市役所",
+    "part_of_speech": "名",
+    "chinese": "市政府",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "けいたいでんわ",
+    "word": "携帯電話",
+    "part_of_speech": "名",
+    "chinese": "手机",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "きんえん",
+    "word": "禁煙",
+    "part_of_speech": "名",
+    "chinese": "禁止吸烟",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "かぜ",
+    "word": "風邪",
+    "part_of_speech": "名",
+    "chinese": "感冒",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "ねつ",
+    "word": "熱",
+    "part_of_speech": "名",
+    "chinese": "发烧，体温",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "すいみん",
+    "word": "睡眠",
+    "part_of_speech": "名",
+    "chinese": "睡眠",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "おふろ",
+    "word": "お風呂",
+    "part_of_speech": "名",
+    "chinese": "澡堂，浴室",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "やっきょく",
+    "word": "薬局",
+    "part_of_speech": "名",
+    "chinese": "药店",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "クーラー",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "空调",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "ひ",
+    "word": "火",
+    "part_of_speech": "名",
+    "chinese": "火",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "き",
+    "word": "気",
+    "part_of_speech": "名",
+    "chinese": "精神，意识",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "うちあわせ",
+    "word": "打ち合わせ",
+    "part_of_speech": "名",
+    "chinese": "事先商量，碰头，商洽",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "むり",
+    "word": "無理",
+    "part_of_speech": "名",
+    "chinese": "勉强，难以办到",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "ちゅうしゃきんし",
+    "word": "駐車禁止",
+    "part_of_speech": "名",
+    "chinese": "禁止停车",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "たちいりきんし",
+    "word": "立入禁止",
+    "part_of_speech": "名",
+    "chinese": "禁止进入",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "かきげんきん",
+    "word": "火気厳禁",
+    "part_of_speech": "名",
+    "chinese": "严禁烟火",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "さつえいきんし",
+    "word": "撮影禁止",
+    "part_of_speech": "名",
+    "chinese": "禁止拍照",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "のります",
+    "word": "乗ります",
+    "part_of_speech": "动1",
+    "chinese": "乘坐，乘",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "つかいます",
+    "word": "使います",
+    "part_of_speech": "动1",
+    "chinese": "用，使用",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "すわります",
+    "word": "座ります",
+    "part_of_speech": "动1",
+    "chinese": "坐，落座",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "はいります",
+    "word": "入ります",
+    "part_of_speech": "动1",
+    "chinese": "进入，加入",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "もうします",
+    "word": "申します",
+    "part_of_speech": "动1",
+    "chinese": "是，说，讲，告诉",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "とります",
+    "word": "",
+    "part_of_speech": "动1",
+    "chinese": "取，取得",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "うたいます",
+    "word": "歌います",
+    "part_of_speech": "动1",
+    "chinese": "唱，歌唱",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "つたえます",
+    "word": "伝えます",
+    "part_of_speech": "动2",
+    "chinese": "说，传达，转告",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "とめます",
+    "word": "止めます",
+    "part_of_speech": "动2",
+    "chinese": "停，制止",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "あたたかい",
+    "word": "暖かい",
+    "part_of_speech": "形1",
+    "chinese": "热乎，温暖",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "だいじょうぶ",
+    "word": "大丈夫",
+    "part_of_speech": "形2",
+    "chinese": "没关系，放心",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "だめ",
+    "word": "",
+    "part_of_speech": "形2",
+    "chinese": "不行，不可以",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "じゅうぶん",
+    "word": "十分",
+    "part_of_speech": "副",
+    "chinese": "好好地，充足地",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "もちろん",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "当然，不用说",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "ゆっくり",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "好好地，安静地",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "もしもし",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "喂",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "いえ",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "不，不是",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "おだいじに",
+    "word": "お大事に",
+    "part_of_speech": "",
+    "chinese": "请多保重",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "いけません",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "不行，不可以",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "かまいません",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "没关系，不要紧",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "まだです",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "还没有，仍然……没有",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "きをつけます",
+    "word": "気をつけます",
+    "part_of_speech": "",
+    "chinese": "注意",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "むりをします",
+    "word": "無理をします",
+    "part_of_speech": "",
+    "chinese": "勉强",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "すいみんをとります",
+    "word": "睡眠をとります",
+    "part_of_speech": "",
+    "chinese": "睡觉",
+    "tone": 0
+  },
+  {
+    "lesson": 15,
+    "kana": "おふろにはいります",
+    "word": "お風呂にはいります",
+    "part_of_speech": "",
+    "chinese": "洗澡",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "そうさ",
+    "word": "操作",
+    "part_of_speech": "名",
+    "chinese": "操作，操纵",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "きかい",
+    "word": "機械",
+    "part_of_speech": "名",
+    "chinese": "机械，机器",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "りょこうがいしゃ",
+    "word": "旅行会社",
+    "part_of_speech": "名",
+    "chinese": "旅行社",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "こうくうがいしゃ",
+    "word": "航空会社",
+    "part_of_speech": "名",
+    "chinese": "航空公司",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "えいぎょうぶ",
+    "word": "営業部",
+    "part_of_speech": "名",
+    "chinese": "营业部",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "アイティーさんぎょう",
+    "word": "IT産業",
+    "part_of_speech": "名",
+    "chinese": "IT产业，信息技术产业",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "せいひん",
+    "word": "製品",
+    "part_of_speech": "名",
+    "chinese": "产品",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "けんちくか",
+    "word": "建築家",
+    "part_of_speech": "名",
+    "chinese": "建筑师",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "せっけい",
+    "word": "設計",
+    "part_of_speech": "名",
+    "chinese": "设计",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "デザイン",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "设计(图)，(制作)图案",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "かたち",
+    "word": "形",
+    "part_of_speech": "名",
+    "chinese": "造型，形状，形式",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "さいしん",
+    "word": "最新",
+    "part_of_speech": "名",
+    "chinese": "最新",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "ネクタイ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "领带",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "さいふ",
+    "word": "財布",
+    "part_of_speech": "名",
+    "chinese": "钱包",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "かわ",
+    "word": "革",
+    "part_of_speech": "名",
+    "chinese": "革，皮革",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "ぬの",
+    "word": "布",
+    "part_of_speech": "名",
+    "chinese": "布，布匹",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "すいとう",
+    "word": "水筒",
+    "part_of_speech": "名",
+    "chinese": "水壶，水筒",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "みどり",
+    "word": "緑",
+    "part_of_speech": "名",
+    "chinese": "绿，绿色",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "あし",
+    "word": "足",
+    "part_of_speech": "名",
+    "chinese": "脚",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "ゆび",
+    "word": "指",
+    "part_of_speech": "名",
+    "chinese": "手指，指头",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "め",
+    "word": "目",
+    "part_of_speech": "名",
+    "chinese": "眼，眼睛",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "はな",
+    "word": "鼻",
+    "part_of_speech": "名",
+    "chinese": "鼻，鼻子",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "かお",
+    "word": "顔",
+    "part_of_speech": "名",
+    "chinese": "脸，颜面",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "あたま",
+    "word": "頭",
+    "part_of_speech": "名",
+    "chinese": "头，头脑",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "アイディーカード",
+    "word": "ID～",
+    "part_of_speech": "名",
+    "chinese": "身份证件",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "まちがい",
+    "word": "間違い",
+    "part_of_speech": "名",
+    "chinese": "错误，失误",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "もんだい",
+    "word": "問題",
+    "part_of_speech": "名",
+    "chinese": "问题",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "こうこく",
+    "word": "広告",
+    "part_of_speech": "名",
+    "chinese": "广告",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "かんばん",
+    "word": "看板",
+    "part_of_speech": "名",
+    "chinese": "牌子",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "てんじじょう",
+    "word": "展示場",
+    "part_of_speech": "名",
+    "chinese": "展览会场",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "にゅうじょうりょう",
+    "word": "入場料",
+    "part_of_speech": "名",
+    "chinese": "门票，进场费",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "サービス",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "服务",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "てんじょう",
+    "word": "天井",
+    "part_of_speech": "名",
+    "chinese": "天棚",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "けいび",
+    "word": "警備",
+    "part_of_speech": "名",
+    "chinese": "戒备，警备",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "クリスマスシリー",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "圣诞树",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "オーストラリアじん",
+    "word": "～人",
+    "part_of_speech": "名",
+    "chinese": "澳大利亚人",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "みなさん",
+    "word": "皆さん",
+    "part_of_speech": "名",
+    "chinese": "大家，诸位",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "こ",
+    "word": "子",
+    "part_of_speech": "名",
+    "chinese": "孩子",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "よこ",
+    "word": "横",
+    "part_of_speech": "名",
+    "chinese": "旁边，侧面",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "もちます",
+    "word": "持ちます",
+    "part_of_speech": "动1",
+    "chinese": "有，拥有，持有",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "すみます",
+    "word": "住みます",
+    "part_of_speech": "动1",
+    "chinese": "住，居住",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "しります",
+    "word": "知ります",
+    "part_of_speech": "动1",
+    "chinese": "认识，知道，了解",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "なおします",
+    "word": "直します",
+    "part_of_speech": "动1",
+    "chinese": "改，修改，改正",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "かたづけます",
+    "word": "片づけます",
+    "part_of_speech": "动2",
+    "chinese": "收拾，整理",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "れんしゅうします",
+    "word": "練習～",
+    "part_of_speech": "动3",
+    "chinese": "练习",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "けっこんします",
+    "word": "結婚～",
+    "part_of_speech": "动3",
+    "chinese": "结婚",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "あんしんします",
+    "word": "安心～",
+    "part_of_speech": "动3",
+    "chinese": "安心，放心",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "あかるい",
+    "word": "明るい",
+    "part_of_speech": "形1",
+    "chinese": "明亮，开朗",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "ながい",
+    "word": "長い",
+    "part_of_speech": "形1",
+    "chinese": "长，长久，长远",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "みじかい",
+    "word": "短い",
+    "part_of_speech": "形1",
+    "chinese": "短，短暂",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "かるい",
+    "word": "軽い",
+    "part_of_speech": "形1",
+    "chinese": "轻巧，轻，轻松，轻微",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "やさしい",
+    "word": "優しい",
+    "part_of_speech": "形1",
+    "chinese": "和蔼，温和，体贴",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "ほそい",
+    "word": "細い",
+    "part_of_speech": "形1",
+    "chinese": "小，细长，纤细",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "ふとい",
+    "word": "太い",
+    "part_of_speech": "形1",
+    "chinese": "粗，胖",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "くろい",
+    "word": "黒い",
+    "part_of_speech": "形1",
+    "chinese": "黑，黑色",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "ユニーク",
+    "word": "",
+    "part_of_speech": "形2",
+    "chinese": "独特，唯一",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "あんぜん",
+    "word": "安全",
+    "part_of_speech": "形2",
+    "chinese": "安全",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "はで",
+    "word": "派手",
+    "part_of_speech": "形2",
+    "chinese": "耀眼，花哨",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "じみ",
+    "word": "地味",
+    "part_of_speech": "形2",
+    "chinese": "朴素，质朴",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "げんじゅう",
+    "word": "厳重",
+    "part_of_speech": "形2",
+    "chinese": "森严;严格",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "まじめ",
+    "word": "",
+    "part_of_speech": "形2",
+    "chinese": "认真;严肃",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "たいせつ",
+    "word": "大切",
+    "part_of_speech": "形2",
+    "chinese": "重要，珍贵",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "ふくざつ",
+    "word": "複雑",
+    "part_of_speech": "形2",
+    "chinese": "复杂，繁杂",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "ちゃんと",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "好好地，的确，完全",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "すぐ",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "马上，立即",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "ずいぶん",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "相当，非常，很",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "ほら",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "你看，瞧，喂",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "にっちゅうでんき",
+    "word": "日中電気",
+    "part_of_speech": "专",
+    "chinese": "日中电器",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "あたまがいい",
+    "word": "頭がいい",
+    "part_of_speech": "",
+    "chinese": "脑子好，聪明",
+    "tone": 0
+  },
+  {
+    "lesson": 16,
+    "kana": "～せい∕～りょう∕～ひ∕～だい",
+    "word": "～製／～料／～費／～代",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "ようふく",
+    "word": "洋服",
+    "part_of_speech": "名",
+    "chinese": "西服",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "セーター",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "毛衣",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "ノートパソコン",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "笔记本电脑",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "バイク",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "摩托车",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "おしるこ",
+    "word": "お汁粉",
+    "part_of_speech": "名",
+    "chinese": "年糕小豆汤",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "てんぷら",
+    "word": "天ぷら",
+    "part_of_speech": "名",
+    "chinese": "天麸罗",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "はつもうで",
+    "word": "初詣",
+    "part_of_speech": "名",
+    "chinese": "新年后首次参拜",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "けんこう",
+    "word": "健康",
+    "part_of_speech": "名",
+    "chinese": "健康",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "れんあい",
+    "word": "恋愛",
+    "part_of_speech": "名",
+    "chinese": "恋爱",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "ドラマ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "连续剧",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "あいて",
+    "word": "相手",
+    "part_of_speech": "名",
+    "chinese": "对象，对方",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "こいびと",
+    "word": "恋人",
+    "part_of_speech": "名",
+    "chinese": "恋人",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "せんぱい",
+    "word": "先輩",
+    "part_of_speech": "名",
+    "chinese": "前辈",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "だんせい",
+    "word": "男性",
+    "part_of_speech": "名",
+    "chinese": "男性",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "がいこくじん",
+    "word": "外国人",
+    "part_of_speech": "名",
+    "chinese": "外国人",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "なつ",
+    "word": "夏",
+    "part_of_speech": "名",
+    "chinese": "夏天",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "はじめます",
+    "word": "始めます",
+    "part_of_speech": "动2",
+    "chinese": "开始",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "れんらくしあす",
+    "word": "連絡～",
+    "part_of_speech": "动3",
+    "chinese": "联系",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "ほしい",
+    "word": "欲しい",
+    "part_of_speech": "形1",
+    "chinese": "想要",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "りっぱ",
+    "word": "立派",
+    "part_of_speech": "形1",
+    "chinese": "美观，杰出",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "こんど",
+    "word": "今度",
+    "part_of_speech": "副",
+    "chinese": "下次;这回",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "ぜひ",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "一定",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "そろそろ",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "快要",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "まず",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "先，首先",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "ベートーベン",
+    "word": "",
+    "part_of_speech": "专",
+    "chinese": "贝多芬",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "ショパン",
+    "word": "",
+    "part_of_speech": "专",
+    "chinese": "肖邦",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "こきゅう",
+    "word": "故宮",
+    "part_of_speech": "专",
+    "chinese": "故宫",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "ヨーロッパ",
+    "word": "",
+    "part_of_speech": "专",
+    "chinese": "欧洲",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "ホンコン",
+    "word": "香港",
+    "part_of_speech": "专",
+    "chinese": "香港",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "スイス",
+    "word": "",
+    "part_of_speech": "专",
+    "chinese": "瑞士",
+    "tone": 0
+  },
+  {
+    "lesson": 17,
+    "kana": "～中じゅうに",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "おと",
+    "word": "音",
+    "part_of_speech": "名",
+    "chinese": "声音，响声",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "こえ",
+    "word": "声",
+    "part_of_speech": "名",
+    "chinese": "声音",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "くうき",
+    "word": "空気",
+    "part_of_speech": "名",
+    "chinese": "空气",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "むすこ",
+    "word": "息子",
+    "part_of_speech": "名",
+    "chinese": "儿子",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "いしゃ",
+    "word": "医者",
+    "part_of_speech": "名",
+    "chinese": "医生",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "おじょうさん",
+    "word": "お嬢さん",
+    "part_of_speech": "名",
+    "chinese": "令爱",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "しゃかいじん",
+    "word": "社会人",
+    "part_of_speech": "名",
+    "chinese": "社会的一员，成人",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "りょこうガイド",
+    "word": "旅行～",
+    "part_of_speech": "名",
+    "chinese": "旅行导游",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "がくしゃ",
+    "word": "学者",
+    "part_of_speech": "名",
+    "chinese": "学者",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "パイロット",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "飞行员",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "デザイナー",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "设计者，设计家",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "タイムサービス",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "时段廉价销售",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "しんしゅんセール",
+    "word": "新春～",
+    "part_of_speech": "名",
+    "chinese": "新年大甩卖",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "さんわりびき",
+    "word": "3割引",
+    "part_of_speech": "名",
+    "chinese": "七折",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "でいか",
+    "word": "定価",
+    "part_of_speech": "名",
+    "chinese": "定价",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "はんがく",
+    "word": "半額",
+    "part_of_speech": "名",
+    "chinese": "半价",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "ねだん",
+    "word": "値段",
+    "part_of_speech": "名",
+    "chinese": "价格",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "シャツ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "衬衫",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "スカート",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "裙子",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "いろ",
+    "word": "色",
+    "part_of_speech": "名",
+    "chinese": "颜色",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "あか",
+    "word": "赤",
+    "part_of_speech": "名",
+    "chinese": "红色",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "あお",
+    "word": "青",
+    "part_of_speech": "名",
+    "chinese": "蓝色",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "おしょうがつ",
+    "word": "お正月",
+    "part_of_speech": "名",
+    "chinese": "过年，新年",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "じかん",
+    "word": "時間",
+    "part_of_speech": "名",
+    "chinese": "时间",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "しょうらい",
+    "word": "将来",
+    "part_of_speech": "名",
+    "chinese": "将来",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "じゅんび",
+    "word": "準備",
+    "part_of_speech": "名",
+    "chinese": "准备",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "びょうき",
+    "word": "病気",
+    "part_of_speech": "名",
+    "chinese": "疾病",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "なります",
+    "word": "",
+    "part_of_speech": "动1",
+    "chinese": "变，当，变成，成为",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "あきます",
+    "word": "開きます",
+    "part_of_speech": "动1",
+    "chinese": "开",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "にあいます",
+    "word": "似合います",
+    "part_of_speech": "动1",
+    "chinese": "适合，相称",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "うるさい",
+    "word": "",
+    "part_of_speech": "形1",
+    "chinese": "闹，使人心烦",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "シンプル",
+    "word": "",
+    "part_of_speech": "形2",
+    "chinese": "单纯，简洁",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "まもなく",
+    "word": "間もなく",
+    "part_of_speech": "副",
+    "chinese": "马上，一会儿，不久",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "さらに∕もっと",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "更加，更",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "さあ",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "啊，喂",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "でくるだけ",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "尽量，尽可能",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "まとめて",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "一下子，一起，汇总，汇集",
+    "tone": 0
+  },
+  {
+    "lesson": 18,
+    "kana": "いまから",
+    "word": "今から",
+    "part_of_speech": "",
+    "chinese": "从现在起",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "しなもの",
+    "word": "品物",
+    "part_of_speech": "名",
+    "chinese": "物品，商品",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "おさら",
+    "word": "お皿",
+    "part_of_speech": "名",
+    "chinese": "盘子",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "ごみ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "垃圾",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "しょしんしゃ",
+    "word": "初心者",
+    "part_of_speech": "名",
+    "chinese": "初学者",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "じょうきゅうしゃ",
+    "word": "上級者",
+    "part_of_speech": "名",
+    "chinese": "熟练者",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "こうきゅう",
+    "word": "高級",
+    "part_of_speech": "名",
+    "chinese": "高级",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "じょうきゅうクラス",
+    "word": "上級～",
+    "part_of_speech": "名",
+    "chinese": "高级班",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "えいかいわ",
+    "word": "英会話",
+    "part_of_speech": "名",
+    "chinese": "英语会话",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "コース",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "路线，滑道",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "スキー",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "滑雪",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "レポート",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "报告",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "パスポート",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "护照",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "のど",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "喉咙",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "さわります",
+    "word": "触ります",
+    "part_of_speech": "动1",
+    "chinese": "碰，触",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "ぬぎます",
+    "word": "脱ぎます",
+    "part_of_speech": "动1",
+    "chinese": "脱",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "ころびます",
+    "word": "転びます",
+    "part_of_speech": "动1",
+    "chinese": "摔，摔倒，跌倒",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "かわきます",
+    "word": "渇きます",
+    "part_of_speech": "动1",
+    "chinese": "渴",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "なおります",
+    "word": "治ります",
+    "part_of_speech": "动1",
+    "chinese": "痊愈，医好",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "すべります",
+    "word": "滑ります",
+    "part_of_speech": "动1",
+    "chinese": "滑，滑行",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "よびます",
+    "word": "呼びます",
+    "part_of_speech": "动1",
+    "chinese": "呼喊",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "かえします",
+    "word": "返します",
+    "part_of_speech": "动1",
+    "chinese": "归还",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "てつだいます",
+    "word": "手伝います",
+    "part_of_speech": "动1",
+    "chinese": "帮忙",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "はこびます",
+    "word": "運びます",
+    "part_of_speech": "动1",
+    "chinese": "搬运",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "なくします",
+    "word": "",
+    "part_of_speech": "动1",
+    "chinese": "丢，丢失",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "おとします",
+    "word": "落とします",
+    "part_of_speech": "动1",
+    "chinese": "掉，使落下",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "おきます",
+    "word": "置きます",
+    "part_of_speech": "动1",
+    "chinese": "放置",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "はらいます",
+    "word": "払います",
+    "part_of_speech": "动1",
+    "chinese": "支付",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "たちます",
+    "word": "立ちます",
+    "part_of_speech": "动1",
+    "chinese": "站，立",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "わすれます",
+    "word": "忘れます",
+    "part_of_speech": "动2",
+    "chinese": "忘记",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "あわてます",
+    "word": "慌てます",
+    "part_of_speech": "动2",
+    "chinese": "慌张，惊慌，着急",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "すてます",
+    "word": "捨てます",
+    "part_of_speech": "动2",
+    "chinese": "扔，扔掉",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "ざんぎょうします",
+    "word": "残業～",
+    "part_of_speech": "动2",
+    "chinese": "加班",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "しんぱいします",
+    "word": "心配～",
+    "part_of_speech": "动3",
+    "chinese": "担心",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "ほんとう",
+    "word": "本当",
+    "part_of_speech": "形2",
+    "chinese": "真的，真正",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "はやく",
+    "word": "早く",
+    "part_of_speech": "副",
+    "chinese": "早点儿",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "やっと",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "好不容易，终于",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "だいぶ",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "很，相当地",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "はじめて",
+    "word": "初めて",
+    "part_of_speech": "副",
+    "chinese": "第一次",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "さきに",
+    "word": "先に",
+    "part_of_speech": "副",
+    "chinese": "先",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "やまだ",
+    "word": "山田",
+    "part_of_speech": "专",
+    "chinese": "山田",
+    "tone": 0
+  },
+  {
+    "lesson": 19,
+    "kana": "～たち",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "しゅみ",
+    "word": "趣味",
+    "part_of_speech": "名",
+    "chinese": "爱好",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "とくぎ",
+    "word": "特技",
+    "part_of_speech": "名",
+    "chinese": "特长，拿手的技术",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "きょうみ",
+    "word": "興味",
+    "part_of_speech": "名",
+    "chinese": "兴趣",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "ゆめ",
+    "word": "夢",
+    "part_of_speech": "名",
+    "chinese": "梦，理想",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "ギター",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "吉他",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "こきゅう",
+    "word": "胡弓",
+    "part_of_speech": "名",
+    "chinese": "胡琴",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "しょどう",
+    "word": "書道",
+    "part_of_speech": "名",
+    "chinese": "书法",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "つり",
+    "word": "釣り",
+    "part_of_speech": "名",
+    "chinese": "钓鱼",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "ドライブ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "兜风，开汽车远游",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "あみもの",
+    "word": "編み物",
+    "part_of_speech": "",
+    "chinese": "编制;编织品",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "てづくり",
+    "word": "手作り",
+    "part_of_speech": "名",
+    "chinese": "手工做，自己做，手制",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "ちゅうかがい",
+    "word": "中華街",
+    "part_of_speech": "名",
+    "chinese": "中华街",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "ちゅうかりょうり",
+    "word": "中華料理",
+    "part_of_speech": "名",
+    "chinese": "中国菜",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "ギョーザ",
+    "word": "餃子",
+    "part_of_speech": "名",
+    "chinese": "饺子",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "かわ",
+    "word": "皮",
+    "part_of_speech": "名",
+    "chinese": "皮",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "しゅんせつ",
+    "word": "春節",
+    "part_of_speech": "名",
+    "chinese": "春节",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "ししまい",
+    "word": "獅子舞",
+    "part_of_speech": "名",
+    "chinese": "狮子舞",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "りょう",
+    "word": "寮",
+    "part_of_speech": "名",
+    "chinese": "宿舍",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "せんたくき",
+    "word": "洗濯機",
+    "part_of_speech": "名",
+    "chinese": "洗衣机",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "シャワー",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "淋浴",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "おなか",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "肚子",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "じゅぎょう",
+    "word": "授業",
+    "part_of_speech": "名",
+    "chinese": "授课，上课",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "しりょう",
+    "word": "資料",
+    "part_of_speech": "名",
+    "chinese": "资料",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "フランスご",
+    "word": "～語",
+    "part_of_speech": "名",
+    "chinese": "法语",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "しょうせつ",
+    "word": "小説",
+    "part_of_speech": "名",
+    "chinese": "小说",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "かいがん",
+    "word": "海岸",
+    "part_of_speech": "名",
+    "chinese": "海岸",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "ふゆやすみ",
+    "word": "冬休み",
+    "part_of_speech": "名",
+    "chinese": "寒假",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "キャンプ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "野营",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "みんな",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "大家",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "じぶん",
+    "word": "自分",
+    "part_of_speech": "名",
+    "chinese": "自己",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "ぜんいん",
+    "word": "全員",
+    "part_of_speech": "名",
+    "chinese": "全员",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "ひきます",
+    "word": "弾きます",
+    "part_of_speech": "动1",
+    "chinese": "弹",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "すきます",
+    "word": "",
+    "part_of_speech": "动1",
+    "chinese": "(肚子)饿，空",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "のぼります",
+    "word": "登ります",
+    "part_of_speech": "动1",
+    "chinese": "登，上",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "あつめます",
+    "word": "集めます",
+    "part_of_speech": "动2",
+    "chinese": "收集",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "あびます",
+    "word": "浴びます",
+    "part_of_speech": "动2",
+    "chinese": "淋;浇",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "ごちそうします",
+    "word": "",
+    "part_of_speech": "动3",
+    "chinese": "请客，摆盛宴",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "きこくします",
+    "word": "帰国～",
+    "part_of_speech": "动3",
+    "chinese": "回国",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "とくに",
+    "word": "特に",
+    "part_of_speech": "副",
+    "chinese": "特别",
+    "tone": 0
+  },
+  {
+    "lesson": 20,
+    "kana": "おなかがすきます",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "肚子饿",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "ことば",
+    "word": "言葉",
+    "part_of_speech": "名",
+    "chinese": "语言",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "メールアドレス",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "邮件地址",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "れんきゅう",
+    "word": "連休",
+    "part_of_speech": "名",
+    "chinese": "连休",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "ゴールデンウィーク",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "黄金周",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "おわり",
+    "word": "終わり",
+    "part_of_speech": "名",
+    "chinese": "结束",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "きゅうけいじかん",
+    "word": "休憩時間",
+    "part_of_speech": "名",
+    "chinese": "休息时间",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "きょうげき",
+    "word": "京劇",
+    "part_of_speech": "名",
+    "chinese": "京剧",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "きっぷ",
+    "word": "切符",
+    "part_of_speech": "名",
+    "chinese": "票(券)",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "からだ",
+    "word": "体",
+    "part_of_speech": "名",
+    "chinese": "身体",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "じしん",
+    "word": "地震",
+    "part_of_speech": "名",
+    "chinese": "地震",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "どろぼう",
+    "word": "泥棒",
+    "part_of_speech": "名",
+    "chinese": "小偷，盗贼",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "ちゅうしゃじょう",
+    "word": "駐車場",
+    "part_of_speech": "名",
+    "chinese": "停车场",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "わたします",
+    "word": "渡します",
+    "part_of_speech": "动1",
+    "chinese": "交给",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "おくれます",
+    "word": "遅れます",
+    "part_of_speech": "动2",
+    "chinese": "迟到",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "かんがえます",
+    "word": "考えます",
+    "part_of_speech": "动2",
+    "chinese": "考虑",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "しらべます",
+    "word": "調べます",
+    "part_of_speech": "动2",
+    "chinese": "调查",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "きます",
+    "word": "着ます",
+    "part_of_speech": "动2",
+    "chinese": "穿",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "よやくします",
+    "word": "予約～",
+    "part_of_speech": "动3",
+    "chinese": "预约",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "かんしゃします",
+    "word": "感謝～",
+    "part_of_speech": "动3",
+    "chinese": "感谢",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "うんどうします",
+    "word": "運動～",
+    "part_of_speech": "动3",
+    "chinese": "运动",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "せんたくします",
+    "word": "洗濯～",
+    "part_of_speech": "动3",
+    "chinese": "洗涤，洗",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "ほうこくします",
+    "word": "報告～",
+    "part_of_speech": "动3",
+    "chinese": "报告",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "あぶない",
+    "word": "危ない",
+    "part_of_speech": "形1",
+    "chinese": "危险",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "これとも",
+    "word": "",
+    "part_of_speech": "连",
+    "chinese": "还是，或者",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "とうきょうタワー",
+    "word": "東京～",
+    "part_of_speech": "专",
+    "chinese": "东京塔",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "そんなに",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "那么",
+    "tone": 0
+  },
+  {
+    "lesson": 21,
+    "kana": "～過すぎ",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "スキーじょう",
+    "word": "～場",
+    "part_of_speech": "名",
+    "chinese": "滑雪场",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "そうべつかい",
+    "word": "送別会",
+    "part_of_speech": "名",
+    "chinese": "欢送会",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "つごう",
+    "word": "都合",
+    "part_of_speech": "名",
+    "chinese": "方便;情况",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "よてい",
+    "word": "予定",
+    "part_of_speech": "名",
+    "chinese": "预约",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "おもちゃ",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "玩具",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "かじ",
+    "word": "火事",
+    "part_of_speech": "名",
+    "chinese": "火灾",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "きかん",
+    "word": "期間",
+    "part_of_speech": "名",
+    "chinese": "时间，期间",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "てんきん",
+    "word": "転勤",
+    "part_of_speech": "名",
+    "chinese": "调动工作",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "けいたい",
+    "word": "携帯",
+    "part_of_speech": "名",
+    "chinese": "手机",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "バドミントン",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "羽毛球",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "ラケット",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "球拍",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "おくさん",
+    "word": "奥さん",
+    "part_of_speech": "名",
+    "chinese": "夫人，(别人的)爱人",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "かしゅ",
+    "word": "歌手",
+    "part_of_speech": "名",
+    "chinese": "歌手",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "だいとうりょう",
+    "word": "大統領",
+    "part_of_speech": "名",
+    "chinese": "总统",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "やります",
+    "word": "",
+    "part_of_speech": "动1",
+    "chinese": "做",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "うれしい",
+    "word": "",
+    "part_of_speech": "形1",
+    "chinese": "高兴",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "ねむい",
+    "word": "眠い",
+    "part_of_speech": "形1",
+    "chinese": "困倦",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "おもい",
+    "word": "重い",
+    "part_of_speech": "形1",
+    "chinese": "重，沉重",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "きゅう",
+    "word": "急",
+    "part_of_speech": "形2",
+    "chinese": "突然;紧急",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "まあまあ",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "大致，还算",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "ごめん",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "抱歉，请原谅",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "ううん∕いや",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "不",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "うん",
+    "word": "",
+    "part_of_speech": "叹",
+    "chinese": "嗯",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "しみず",
+    "word": "清水",
+    "part_of_speech": "专",
+    "chinese": "清水",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "おおた",
+    "word": "太田",
+    "part_of_speech": "专",
+    "chinese": "太田",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "モーツァルト",
+    "word": "",
+    "part_of_speech": "专",
+    "chinese": "莫扎特",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "ディズニーランド",
+    "word": "",
+    "part_of_speech": "专",
+    "chinese": "迪斯尼乐园",
+    "tone": 0
+  },
+  {
+    "lesson": 22,
+    "kana": "～以外いがい∕～方かた",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "しゅうまつ",
+    "word": "週末",
+    "part_of_speech": "名",
+    "chinese": "周末",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "スケート",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "滑冰，溜冰",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "あじ",
+    "word": "味",
+    "part_of_speech": "名",
+    "chinese": "口味，(食物的)味道",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "まいかい",
+    "word": "毎回",
+    "part_of_speech": "名",
+    "chinese": "每次，每回",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "つうきん",
+    "word": "通勤",
+    "part_of_speech": "名",
+    "chinese": "上下班，通勤",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "ふね",
+    "word": "船",
+    "part_of_speech": "名",
+    "chinese": "船",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "きじ",
+    "word": "生地",
+    "part_of_speech": "名",
+    "chinese": "布料，衣料",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "へいてんじこく",
+    "word": "閉店時刻",
+    "part_of_speech": "名",
+    "chinese": "关门时间",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "そつぎょうしき",
+    "word": "卒業式",
+    "part_of_speech": "名",
+    "chinese": "毕业典礼",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "ちがいます",
+    "word": "違います",
+    "part_of_speech": "动1",
+    "chinese": "不同，不一样",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "こみます",
+    "word": "込みます",
+    "part_of_speech": "动1",
+    "chinese": "拥挤，混杂",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "きまります",
+    "word": "決まります",
+    "part_of_speech": "动1",
+    "chinese": "定，决定",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "しらせます",
+    "word": "知らせます",
+    "part_of_speech": "动2",
+    "chinese": "告诉",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "たしかめます",
+    "word": "確かめます",
+    "part_of_speech": "动2",
+    "chinese": "查(看)，弄清",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "こい",
+    "word": "濃い",
+    "part_of_speech": "形1",
+    "chinese": "(口味)重;浓",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "うすい",
+    "word": "薄い",
+    "part_of_speech": "形1",
+    "chinese": "(口味)轻;薄",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "はやい",
+    "word": "早い",
+    "part_of_speech": "形1",
+    "chinese": "早",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "おそい",
+    "word": "遅い",
+    "part_of_speech": "形1",
+    "chinese": "晚，慢",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "たぶん",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "可能，大概",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "とうきょうえき",
+    "word": "東京駅",
+    "part_of_speech": "专",
+    "chinese": "东京站",
+    "tone": 0
+  },
+  {
+    "lesson": 23,
+    "kana": "～によって∕～によります",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "ハイキング",
+    "word": "",
+    "part_of_speech": "名",
+    "chinese": "郊游，远足",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "おわかれ",
+    "word": "お別れ",
+    "part_of_speech": "名",
+    "chinese": "分别，分手",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "はなし",
+    "word": "話",
+    "part_of_speech": "名",
+    "chinese": "说话",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "みおくり",
+    "word": "見送り",
+    "part_of_speech": "名",
+    "chinese": "送行，送别",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "あいだ",
+    "word": "間",
+    "part_of_speech": "名",
+    "chinese": "时间，期间",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "ほうりつ",
+    "word": "法律",
+    "part_of_speech": "名",
+    "chinese": "法律",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "おもいます",
+    "word": "思います",
+    "part_of_speech": "动1",
+    "chinese": "想，思考",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "いいます",
+    "word": "言います",
+    "part_of_speech": "动1",
+    "chinese": "说，讲",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "さがします",
+    "word": "探します",
+    "part_of_speech": "动1",
+    "chinese": "找，寻找，寻求",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "わらいます",
+    "word": "笑います",
+    "part_of_speech": "动1",
+    "chinese": "笑",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "やめます",
+    "word": "",
+    "part_of_speech": "动2",
+    "chinese": "戒，停止，放弃",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "きめます",
+    "word": "決めます",
+    "part_of_speech": "动2",
+    "chinese": "决定",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "ねぼうします",
+    "word": "寝坊～",
+    "part_of_speech": "动3",
+    "chinese": "睡懒觉",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "がいしゅつします",
+    "word": "外出～",
+    "part_of_speech": "动3",
+    "chinese": "外出，出去",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "けんきゅうします",
+    "word": "研究～",
+    "part_of_speech": "动3",
+    "chinese": "研究",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "おかしい",
+    "word": "",
+    "part_of_speech": "形1",
+    "chinese": "可笑，滑稽",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "いっぱい",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "满",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "すこい",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "惊人的，了不起",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "とうとう",
+    "word": "",
+    "part_of_speech": "副",
+    "chinese": "终于，终究，到底",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "かならず",
+    "word": "必ず",
+    "part_of_speech": "副",
+    "chinese": "一定，必定",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "ぜったいに",
+    "word": "絶対に",
+    "part_of_speech": "副",
+    "chinese": "绝对",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "ば",
+    "word": "馬",
+    "part_of_speech": "专",
+    "chinese": "马",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "おせわになりました",
+    "word": "お世話になりました",
+    "part_of_speech": "",
+    "chinese": "承蒙照顾",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "よろしくおつたえください",
+    "word": "～お伝えください",
+    "part_of_speech": "",
+    "chinese": "请代问好",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "おげんきで",
+    "word": "お元気で",
+    "part_of_speech": "",
+    "chinese": "请多保重",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "おきをつけて",
+    "word": "お気をつけて",
+    "part_of_speech": "",
+    "chinese": "小心点儿",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "さようなら",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "再见",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "どうやって",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "怎样，如何",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "やくにたちます",
+    "word": "役に立ちます",
+    "part_of_speech": "",
+    "chinese": "有用",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "おなかがいっぱいです",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "吃饱，饱",
+    "tone": 0
+  },
+  {
+    "lesson": 24,
+    "kana": "～中ちゅう∕～について",
+    "word": "",
+    "part_of_speech": "",
+    "chinese": "",
+    "tone": 0
+  }
+]
